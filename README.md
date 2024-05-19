@@ -1,21 +1,44 @@
+
 # The conference bible
+
+This document is a work in progress. I'll likely split out things into their own document rather than having a massive one pager.
 
 
 **Table of contents**
 1. [Overview](#overview)
 2. [Why run a conference?](#why-run-a-conference)
 3. [Organisation and planning](#organisation)
-4. [Asking for help](#asking-for-help)
-5. [AV & Tech](#av-and-tech)
-7. [Communication](#communication)
-8. [Guides](#guides)
-	1. [Organisers]
-	2. [Volunteers]
-	3. [Speakers]
-	4. [Attendees]
-9. Post conference overview
-10. Common mistakes and tips
-	
+	1. [Advisors](#advisors)
+	2. [AV & tech](#av-tech)
+	3. [Branding](#branding)
+	4. [Budgeting](#budgeting)
+	5. [Backups](#backups)
+	6. [Controversy](#controversy)
+	7. [Comms strategy](#comms-strategy)
+	8. [Food](#food)
+	9. [Keynote or not](#keynotes)
+	10. [Legality](#legality)
+	11. [Location](#location)
+	12. [Logistics](#logistics)
+	13. [Multi-tracks](#multi-tracks)
+	14. [Publicity](#publicity)
+	15. [Recordings](#recordings)
+	16. [Scheduling](#scheduling)
+	17. [Swag](#swag)
+	18. [Team](#team)
+	19. [Timescales](#timescales)
+	20. [Volunteers](#volunteers)
+	22. [Volunteers - AV](#volunteers-av)
+	21. [Volunteers - General](#volunteers-general)
+	23. [Volunteers - MC's](#volunteers-mcs)
+	24. [Volunteers - Runners](#volunteers-runners)
+5. [Guides](#guides)
+	1. [Organisers](#organiser-guide)
+	2. [Volunteers](#volunteer-guide)
+	3. [Speakers](#speaker-guide)
+	4. [Track](#track-guide)
+6. [Post conference](#post-conference)
+7. [Common mistakes and tips](#common-mistakes-and-tips)
 
 ## Overview
 
@@ -29,7 +52,7 @@ If you are planning to run a conference, you should have a clear goal in mind fo
 
 Conferences can be _incredibly_ fun to organise and run, if they're done right. Sometimes, however, they can be incredibly stressful affairs for everyone if not enough thought, planning, or resilience is built in.
 
-As an organiser you should ask yourself if you want to *attend* a conference or *organise* one. Organisers (and volunteers for that matter) often don't get to see every talk, if any and can be pulled pillar to post sorting out problems, ensuring schedules are accurate, or doing other tasks.
+As an organiser you should ask yourself if you want to *attend* a conference or *organise* one. Organisers (and volunteers for that matter) often don't get to see every talk, if any, and can be pulled pillar to post sorting out problems, ensuring schedules are accurate, or doing other tasks.
 
 ## Organisation and planning
 
@@ -45,6 +68,14 @@ Generally speaking, planning and executing a traditional conference will follow 
 You should have clearly defined goals that you want to achieve at the end of each stage, and sometimes these stages may overlap, or repeat themselves.
 
 Things will change, go wrong, or not quite stick to the original plan and that's **absolutely fine**. Understanding that things might go wrong, planning for those eventualities, and having contingencies in place can massively help to keep the event running smoothly.
+
+### Advisors 
+
+Having a friendly face that's done it all before can massively reduce the pressure of running an event. Their guidance and experience can help 
+
+### AV & tech
+
+TBC
 
 ### Branding
 
@@ -72,7 +103,7 @@ The show must go on.
 
 ### Controversy
 
-While the vast majority of conferences go ahead without a single hitch, you should be mindful of who's involved, or attending, your conference and if there may be any negativity directed towards crew, speakers, sponsors, the venue, or indeed other attendees.
+While the vast majority of conferences go ahead without a single hitch, you should be mindful of who's involved, or attending, your conference and if there may be any negativity directed towards crew, speakers, sponsors, the venue, or indeed other attendees. You should also take into consideration if sponsors are particularly controversial either in general, or region specific.
 
 ### Comms strategy
 
@@ -80,25 +111,39 @@ Having an effective communication strategy is important. Speakers, attendees, sp
 
 ### Food
 
+TBC
+
 ### Keynote or not
+
+Having a keynote (or multiple) planned early . Keynotes should set the tone for the whole day and, in an ideal world, most of the talks should follow a similar theme
 
 ### Legality
 
-### Location
+TBC
 
-During the COVID-19 pandemic, attending and organising remote conferences became the norm for many of us. 
+### Location (online / offline / hybrid)
+
+During the COVID-19 pandemic, attending and organising remote conferences became the norm for many of us. Recently things have gone back to normality a bit with in-person being the preferred option however 
+
+Virtual only conferences are slightly easier logistically but can bring additional challenges an in-person only conference doesn't have such as license costs for software, streaming ability, wifi connectivity, etc. 
+
+It's possible to do a conference as a "hybrid" event, allowing virtual attendees to stream or watch.
 
 ### Logistics
+
+TBC
 
 ### Multi-tracks
 
 Many conferences now follow a "multi-track" format. 
 
+### Publicity
+
+TBC
+
 ### Recordings
 
 Some speakers don't want to be recorded.
-
-A more in-depth AV & Tech guide can be found later in this document.
 
 ### Scheduling
 
@@ -122,51 +167,50 @@ Giving speakers at least a month (ideally more) notice that they've been selecte
 
 Having clear defined schedules of when certain parts need to be solidified (such as venue, sponsorship collection, swag purchase, or speaker comms) can reduce the stress levels of the entire conference.
 
-## Asking for help
-
-One of the most important, yet unspoken, parts of organising conferences is the help and support the community.
-
-### Advisors
-
-### AV Volunteers
-
-
-
-### Sponsors
-
-Sponsors allow 
-
 ### Volunteers
 
-Volunteers
+Putting a call for volunteers out early is incredibly important. Volunteers can have vastly different skillsets meaning some are far more comfortable being front of house "MC's" while others prefer some behind the scenes roles. Understanding the strengths and weaknesses of your volunteer team is vital to keep the conference running smoothly. Consider asking prospective volunteers if they volunteer at other events, or what particular skills they have so you can adjust accordingly.
 
+Volunteers can be broken down into four distinct groups – AV technicians, General, MCs, and Runners. While 
 
+### Volunteers - AV
 
-## AV & Tech
+TBC
 
-## Communication
+### Volunteers - General
+
+TBC
+
+### Volunteers - MC's
+
+MCs are the face of your conference when you're not around. They will introduce speakers, field questions and "run" a track.
+
+### Volunteers - Runners
+
+TBC
 
 ## Guides
 
+### Organisers
 
+TBC
 
+### Volunteers
 
+TBC
 
+### Speakers
 
-## The Concept stage
+TBC
 
-So you
+### Track
 
-## Issues
+TBC
 
-## The CFP
+## Post conference
 
-## Speakers
+TBC
 
-## Volunteers
+## Common mistakes and tips
 
-## Tech & AV
-
-## Swag
-
-## Attendees
+TBC
