@@ -4,7 +4,7 @@
 This document is a work in progress. I'll likely split out things into their own document rather than having a massive one pager.
 
 
-**Table of contents**
+## Sections
 1. [Overview](#overview)
 2. [Why run a conference?](#why-run-a-conference)
 3. [Organisation and planning](#organisation)
