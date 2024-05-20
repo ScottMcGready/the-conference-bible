@@ -1,7 +1,7 @@
 
 # The conference bible
 
-This document is a work in progress. I'll likely split out things into their own document rather than having a massive one pager.
+This document is still a work in progress. I'll likely split out things into their own document rather than having a massive one pager.
 
 
 ## Sections
@@ -9,7 +9,7 @@ This document is a work in progress. I'll likely split out things into their own
 2. [Why run a conference?](#why-run-a-conference)
 3. [Organisation and planning](#organisation)
 	1. [Advisors](#advisors)
-	2. [AV & tech](#av-tech)
+	2. [AV & tech](#av--tech)
 	3. [Branding](#branding)
 	4. [Budgeting](#budgeting)
 	5. [Backups](#backups)
@@ -28,10 +28,10 @@ This document is a work in progress. I'll likely split out things into their own
 	18. [Team](#team)
 	19. [Timescales](#timescales)
 	20. [Volunteers](#volunteers)
-	22. [Volunteers - AV](#volunteers-av)
-	21. [Volunteers - General](#volunteers-general)
-	23. [Volunteers - MC's](#volunteers-mcs)
-	24. [Volunteers - Runners](#volunteers-runners)
+	22. [Volunteers - AV](#volunteers---av)
+	21. [Volunteers - General](#volunteers---general)
+	23. [Volunteers - MC's](#volunteers---mcs)
+	24. [Volunteers - Runners](#volunteers---runners)
 5. [Guides](#guides)
 	1. [Organisers](#organiser-guide)
 	2. [Volunteers](#volunteer-guide)
