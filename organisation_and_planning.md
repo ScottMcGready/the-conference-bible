@@ -47,7 +47,7 @@ Things will change, go wrong, or not quite stick to the original plan and that's
 
 ## Advisors 
 
-Having a friendly face that's done it all before can massively reduce the pressure of running an event. Their guidance and experience can help because most of the issues that crop up, they will have faced and overcome. Conference organisers are generally disposed to assisting others run an event ... provided you aren't trying to run one in competition with them ;)...
+Having a friendly face that's done it all before can massively reduce the pressure of running an event. Their guidance and experience can help because most of the issues that crop up, they will have faced and overcome. Conference organisers are generally disposed to assisting others run an event... provided you aren't trying to run one in competition with them ;)...
 
 ## After party
 
