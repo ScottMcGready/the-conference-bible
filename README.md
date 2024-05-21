@@ -1,7 +1,7 @@
 # The conference bible
 
 **Please note:**
-*This document is still a work in progress. I'll likely split out things into their own document rather than having a massive one pager.*
+*This document is still a work in progress. Feel free to contribute.*
 
 This document is meant to serve as a guide for anyone wanting to run their own conference. It's not intended as a defacto standard – many conferences benefit from being delightfully weird and different, breaking the mould on traditional setups. 
 

@@ -4,7 +4,7 @@ Considering which type of conference you want to run and what format early helps
 
 ## Format
 
-TBC
+There are three types of format your conference can benefit from - [in-person](#in-person), [virtual](#virtual), and [hybrid](#hybrid). Each have their own challenges associated and this should play into any consideration when planning the format of your conference.
 
 ### In-person
 

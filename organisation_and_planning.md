@@ -24,12 +24,14 @@
 18. [Sponsors](#sponsors)
 19. [Swag](#swag)
 20. [Team](#team)
-21. [Timescales](#timescales)
-22. [Volunteers](#volunteers)
+21. [Ticketing](#ticketing)
+22. [Timescales](#timescales)
+23. [Volunteers](#volunteers)
 	1. [Volunteers - AV](#volunteers---av)
 	2. [Volunteers - General](#volunteers---general)
 	3. [Volunteers - MC's](#volunteers---mcs)
 	4. [Volunteers - Runners](#volunteers---runners)
+24. [Workshops](#workshops)
 </details>
 
 Generally speaking, planning and executing a traditional conference will follow the following pattern:
@@ -55,7 +57,11 @@ TBC
 
 ## AV & tech
 
-Decide early about whether you want the talks recorded and shared online. Even if you choose to keep it all within the event, you'll need to consider projectors, screens, laptops, as well as the myriad of cables to connect devices to the projector because not everyone has HDMI anymore.
+Decide early about whether you want the talks recorded and shared online. Even if you choose not to record or stream talks, you'll need to consider projectors, screens, backup laptops, as well as the myriad of cables to connect devices to the projector (because not everyone has HDMI anymore).
+
+Having a bag of cables, clickers, dongles, usb sticks, batteries, and testing the equipment *before* the conference is highly recommended.
+
+When it comes to recording/streaming talks on the day, infosec conferences benefit from having the wonderful ![Cooper](https://twitter.com/Ministraitor) – and his rigs – on hand to help at most conferences. If you're planning on using his rigs, or calling in his services, please ![donate a mate](https://administraitor.video/buy_me_a_mate.html) or send him some sort of thank you. You can find his ![full (and incredibly modest) terms](https://administraitor.video/organizers/requirements.html) on his website, ![administraitor.video](https://administraitor.video). Simply put the man is a legend and donates a ridiculous amount of his time, experience, knowledge, and patience, helping film infosec conferences around the world.
 
 ## Branding
 
@@ -103,7 +109,7 @@ TBC
 
 ## Keynotes
 
-Having a keynote (or multiple) planned early . Keynotes should set the tone for the whole day and, in an ideal world, most of the talks should follow a similar theme
+Having a keynote (or multiple) planned early can help structure the overall theme of your conference and shape the talk or workshop submissions. 
 
 ## Legality
 
@@ -141,7 +147,9 @@ Plan buffer time between talks to allow for movement between tracks. Don't stack
 
 ## Sponsors
 
-TBC
+Having an idea of the types of sponsors you want to invite ahead of time can give you a massive leg up. Sponsors often wont want to share a headline spot with a competitor, or be stationed next to them in the vendor area. Deciding early what benefits sponsors will receive and outlining which ones you plan to target. It's advisable to target companies that have previously sponsored similar conferences or those you, or your team, already have a relationship with.
+
+It's worth considering opening up sponsorship to smaller start-ups and community sponsorships at a reduced rate. While a smaller figure per sponsor may feel like a waste of time initially, it can be surprising (and heartwarming) when many community members club together to sponsor your event.
 
 ## Swag
 
@@ -154,6 +162,12 @@ As a speaker or attendee, swag is nice to receive but it shouldn't be something 
 Having a team behind you during the entire event is thoroughly recommended. Everyone brings different skillsets, opinions, and ideas to the table. It may seem, at the first stage, that running a conference is easy but there's a lot of factors that can be a massive time and energy drain which has a knock on effect on the entire conference. Sharing the load between organisers can help lessen the burden on yourself and allow you to enjoy the experience.
 
 Delegate, delegate, delegate.
+
+## Ticketing
+
+TBC
+
+- "Pay it forward" style tickets 
 
 ## Timescales
 
@@ -182,3 +196,7 @@ MCs are the face of your conference when you're not around. They will introduce 
 ### Volunteers - Runners
 
 Something always happens, use the runners to go and get the extra AAA batteries for the microphones, or to simply ensure staff get to eat during the day, it's easy to get caught up.
+
+## Workshops
+
+TBC
