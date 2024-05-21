@@ -103,7 +103,9 @@ Having a keynote (or multiple) planned early . Keynotes should set the tone for 
 
 ## Legality
 
-TBC
+It's worth considering getting your conference set up as a legal entity. This can protect you as an organiser from liability, should it arise, but also give sponsors a legal entity to pay sponsorship fees to.
+
+It should be noted that this document does not constitute legal advice, always consult with a legal professional and/or accountant before undertaking any legal partnership or liability.
 
 ## Location
 
