@@ -8,13 +8,13 @@ This document is still a work in progress. I'll likely split out things into the
 1. [Overview](#overview)
 2. [Why run a conference?](#why-run-a-conference)
 3. [Types of conference](#types-of-conference)
- 1. Location types
-   1. In-person
-   2. Virtual
-   3. Hybrid
- 2. Speaker cohort
-   1. New speakers
-   2. Seasoned speakers
+	1. Location types
+   		1. In-person
+		2. Virtual
+   		3. Hybrid
+	2. Speaker cohort
+   		1. New speakers
+   		2. Seasoned speakers
 5. [Organisation and planning](#organisation)
 	1. [Advisors](#advisors)
  	2. [After party](#after-party)
