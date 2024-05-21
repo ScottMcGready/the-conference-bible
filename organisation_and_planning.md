@@ -1,39 +1,5 @@
 # Organisation and planning
 
-<details>
-<summary>Document sections</summary>
-
-1. [Advisors](#advisors)
-2. [After party](#after-party)
-3. [AV & tech](#av--tech)
-4. [Branding](#branding)
-5. [Budgeting](#budgeting)
-6. [Backups](#backups)
-7. [Controversy](#controversy)
-8. [Comms strategy](#comms-strategy)
-9. [CTF](#ctf)
-10. [Food](#food)
-11. [Keynotes](#keynotes)
-12. [Legality](#legality)
-13. [Location](#location)
-14. [Logistics](#logistics)
-15. [Multi-tracks](#multi-tracks)
-16. [Publicity](#publicity)
-17. [Recordings](#recordings)
-18. [Scheduling](#scheduling)
-18. [Sponsors](#sponsors)
-19. [Swag](#swag)
-20. [Team](#team)
-21. [Ticketing](#ticketing)
-22. [Timescales](#timescales)
-23. [Volunteers](#volunteers)
-	1. [Volunteers - AV](#volunteers---av)
-	2. [Volunteers - General](#volunteers---general)
-	3. [Volunteers - MC's](#volunteers---mcs)
-	4. [Volunteers - Runners](#volunteers---runners)
-24. [Workshops](#workshops)
-</details>
-
 Generally speaking, planning and executing a traditional conference will follow the following pattern:
 
 * Concept stage
