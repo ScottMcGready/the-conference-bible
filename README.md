@@ -1,9 +1,7 @@
 # The conference bible
 
 **Please note:**
-This document is still a work in progress. I'll likely split out things into their own document rather than having a massive one pager.
-
-## Overview
+*This document is still a work in progress. I'll likely split out things into their own document rather than having a massive one pager.*
 
 This document is meant to serve as a guide for anyone wanting to run their own conference. It's not intended as a defacto standard – many conferences benefit from being delightfully weird and different, breaking the mould on traditional setups. 
 
@@ -19,7 +17,7 @@ As an organiser you should ask yourself if you want to *attend* a conference or 
 
 ## Documentation
 
-Documentation is split into the following sections
+Documentation is split into the following sections:
 
 * [Organisation and planning](organisation_and_planning.md)
 * [Day Guides](guides.md)
@@ -32,4 +30,4 @@ Contributing is very welcome. Please submit a new pull request with your changes
 
 ## Used by
 
-If you've found the guide useful, or have used it to help run your conference please reach out.
+If you've found the guide useful, or have used it to help run your conference, please reach out.
