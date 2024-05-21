@@ -57,6 +57,10 @@ Having a shared document repository or password manager can help ensure that the
 
 The show must go on.
 
+## Code of conduct
+
+Having a code of conduct for your conference allows speakers, sponsors, attendees, and volunteers to feel safe and welcome. You can use a well known, widely used, code of conduct such as the [Berlin code of conduct](https://berlincodeofconduct.org/) or design your own if you wish.
+
 ## Controversy
 
 While the vast majority of conferences go ahead without a single hitch, you should be mindful of who's involved, or attending, your conference and if there may be any negativity directed towards crew, speakers, sponsors, the venue, or indeed other attendees. You should also take into consideration if sponsors are particularly controversial either in general, or region specific.
