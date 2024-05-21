@@ -63,7 +63,9 @@ Having a code of conduct for your conference allows speakers, sponsors, attendee
 
 ## Controversy
 
-While the vast majority of conferences go ahead without a single hitch, you should be mindful of who's involved, or attending, your conference and if there may be any negativity directed towards crew, speakers, sponsors, the venue, or indeed other attendees. You should also take into consideration if sponsors are particularly controversial either in general, or region specific.
+While the vast majority of conferences go ahead without a single hitch, you should be mindful of who's involved, or attending, your conference and if there may be any negativity directed towards crew, speakers, sponsors, the venue, or indeed other attendees. You should also take into consideration if sponsors are particularly controversial either in general, or region specific and having a plan to mitigate any issues that may arise.
+
+Potential controversy, or the assumption of such, can oftent be completely avoided by a having a good, coherent, [code of conduct](#code-of-conduct) in place beforehand.
 
 ## Comms strategy
 
