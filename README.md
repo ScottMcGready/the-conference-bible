@@ -36,6 +36,6 @@ Documentation is split into the following sections:
 
 Contributing to this document is very welcome. Please submit a new pull request with your changes.
 
-## Used by
+## As used by
 
 If you've found the guide useful, or have used it (or any advice I or the other contributors have given in the past) to help run your conference, please reach out and we'll happily add your conference here.
