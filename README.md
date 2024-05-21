@@ -81,7 +81,7 @@ Things will change, go wrong, or not quite stick to the original plan and that's
 
 ### Advisors 
 
-Having a friendly face that's done it all before can massively reduce the pressure of running an event. Their guidance and experience can help 
+Having a friendly face that's done it all before can massively reduce the pressure of running an event. Their guidance and experience can help because most of the issues that crop up, they will have faced and overcome. Conference organisers are generally disposed to assisting others run an event ... provided you aren't trying to run one in competition with them ;)...
 
 ### After party
 
@@ -89,7 +89,7 @@ TBC
 
 ### AV & tech
 
-TBC
+Decide early about whether you want the talks recorded and shared online. Even if you choose to keep it all within the event, you'll need to consider projectors, screens, laptops, as well as the myriad of cables to connect devices to the projector because not everyone has HDMI anymore.
 
 ### Branding
 
@@ -157,17 +157,17 @@ TBC
 
 ### Recordings
 
-Some speakers don't want to be recorded.
+Some speakers don't want to be recorded. You owe it to those that do to provide something worthy of going on a CV to share. Work with the AV team to ensure your vision of the end product matches what they will produce.
 
 ### Scheduling
 
-Plan buffer time between talks to 
+Plan buffer time between talks to allow for movement between tracks. Don't stack a slew of talks together especially longer ones, we are all human and will end up fidgeting and dropping out of talks to break up sitting still for so long. Putting three hour long talks together could have some tactical seating of people skipping the middle or last talk in a set to preserve their attention span for later in the day.
 
 ### Swag
 
-Many conferences give swag to attendees and speakers 
+Many conferences give swag to attendees and speakers.
 
-As a speaker or attendee, swag is nice to receive but it shouldn't be something that is expected. Budgets can be limited, and size based swag (like t-shirts) can be a nightmare to accurately predict. Swag should be seen as a "nice to have" rather than a "must have" using the leftover budget from the sponsors.
+As a speaker or attendee, swag is nice to receive but it shouldn't be something that is expected. Budgets can be limited, and size based swag (like t-shirts) can be a nightmare to accurately predict. Swag should be seen as a "nice to have" rather than a "must have" using the leftover budget from the sponsors. There's a sustainability aspect to swag to consider, is it a t-shirt that will fade after a couple of washes, or a gimmick which is discarded or broken a week later.
 
 ### Team
 
@@ -189,11 +189,11 @@ Volunteers can be broken down into four distinct groups – AV technicians, Gene
 
 ### Volunteers - AV
 
-TBC
+Will support the speaker ensuring that they are comfortable and understand if they can move around the stage or need to stay at a podium if they are not mic'ed up. AV can be a very rewarding role but is often daunting for a first time volunteer so a few experienced AV staff on hand will smooth this over.
 
 ### Volunteers - General
 
-TBC
+Signposting attendees to talks, controlling access to track's after a talk has started to ensure no disruption for the speaker. In the event of an emergency, they will form part of the escorts to safely leave a building.
 
 ### Volunteers - MC's
 
@@ -201,7 +201,7 @@ MCs are the face of your conference when you're not around. They will introduce 
 
 ### Volunteers - Runners
 
-TBC
+Something always happens, use the runners to go and get the extra AAA batteries for the microphones, or to simply ensure staff get to eat during the day, it's easy to get caught up.
 
 ## Guides
 
@@ -223,8 +223,8 @@ TBC
 
 ## Post conference
 
-TBC
+Before the conference, pick a time to come back together and discuss the event, what went well, what didn't, final costs as there will have been costs incurred during the day. Don't do it the day after the event but ensure it's timely as memories fade.
 
 ## Common mistakes and tips
 
-TBC
+All the volunteers are there to help, lean on them as it can't be done alone.
