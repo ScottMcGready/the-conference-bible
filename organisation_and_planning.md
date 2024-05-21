@@ -61,6 +61,10 @@ Decide early about whether you want the talks recorded and shared online. Even i
 
 While branding may be considered a "nice to have" element of the conference, it can make a huge impact to many aspects you might not have considered. Similarly, sponsors may be put off giving money (or haggling down the amounts) if the conference looks a bit "too cheap" or that you haven't given any care in its' presentation.
 
+Social media promo images, speaker cards, schedule books, and even slide templates (for opening & closing remarks) can make such a difference to the overall feel of the conference if planned for in advance.
+
+Using templates provided by online tools, such as ![Canva](https://canva.com), can help make this process much easier.
+
 ## Budgeting
 
 Understand exactly how much it'll cost to deliver a Minimum Viable Product (MVP) version of your conference and add on the additional "nice to have" bits later. Looking at other conferences' sponsor packs can be a good reference point to understand
