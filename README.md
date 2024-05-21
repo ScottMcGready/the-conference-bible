@@ -21,7 +21,13 @@ Documentation is split into the following sections:
 
 * [Types of conference](types_of_conference.md)
 * [Organisation and planning](organisation_and_planning.md)
-* [Day Guides](guides.md)
+* [Day Guides](/day-guides/guides_overview.md)
+	* [AV crew](/day-guides/av_crew.md)
+	* [Organisers](/day-guides/organisers.md)
+	* [Speakers](/day-guides/speakers.md)
+	* [Sponsors](/day-guides/sponsors.md)
+	* [Running a track](/day-guides/track.md)
+	* [Volunteers](/day-guides/volunteers.md)
 * [Post conference](post_conference.md)
 * [Common mistakes, general knowledge, and tips](tips_and_tricks.md)
 
