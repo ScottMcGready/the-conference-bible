@@ -7,7 +7,15 @@ This document is still a work in progress. I'll likely split out things into the
 ## Sections
 1. [Overview](#overview)
 2. [Why run a conference?](#why-run-a-conference)
-3. [Organisation and planning](#organisation)
+3. [Types of conference](#types-of-conference)
+ 1. Location types
+   1. In-person
+   2. Virtual
+   3. Hybrid
+ 2. Speaker cohort
+   1. New speakers
+   2. Seasoned speakers
+5. [Organisation and planning](#organisation)
 	1. [Advisors](#advisors)
  	2. [After party](#after-party)
 	3. [AV & tech](#av--tech)
@@ -34,13 +42,13 @@ This document is still a work in progress. I'll likely split out things into the
 	21. [Volunteers - General](#volunteers---general)
 	23. [Volunteers - MC's](#volunteers---mcs)
 	24. [Volunteers - Runners](#volunteers---runners)
-5. [Guides](#guides)
+6. [Guides](#guides)
 	1. [Organisers](#organiser-guide)
 	2. [Volunteers](#volunteer-guide)
 	3. [Speakers](#speaker-guide)
 	4. [Track](#track-guide)
-6. [Post conference](#post-conference)
-7. [Common mistakes and tips](#common-mistakes-and-tips)
+7. [Post conference](#post-conference)
+8. [Common mistakes and tips](#common-mistakes-and-tips)
 
 ## Overview
 
