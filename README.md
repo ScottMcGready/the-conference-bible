@@ -3,11 +3,13 @@
 **Please note:**
 *This document is still a work in progress. Feel free to contribute.*
 
-This document is meant to serve as a guide for anyone wanting to run their own conference. It's not intended as a defacto standard – many conferences benefit from being delightfully weird and different, breaking the mould on traditional setups. 
+This collection of documents is meant to serve as a guide for anyone wanting to run their own conference. It's not intended as a defacto standard – many conferences benefit from being delightfully weird and different, breaking the mould on traditional setups.
 
 Although this document is heavily focused towards cyber security conferences, many of the concepts can be applied to non-cyber security conferences and smaller meet-ups.
 
 ## Why run a conference?
+![y tho](https://i.kym-cdn.com/entries/icons/original/000/022/978/y_tho_meme.jpg)
+
 
 If you are planning to run a conference, you should have a clear goal in mind for *why* you want to run a conference in the first place. It doesn't need to be a revolutionary, world changing, or ground breaking thought – but running a conference because "it ran the year before" or attempting to "keep up with the Jones'" will lead to a disappointing experience for everyone involved.
 
