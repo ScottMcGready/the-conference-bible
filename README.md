@@ -31,10 +31,11 @@ Documentation is split into the following sections:
 * [Post conference](post_conference.md)
 * [Common mistakes, general knowledge, and tips](tips_and_tricks.md)
 
+
 ## Contributing
 
-Contributing is very welcome. Please submit a new pull request with your changes.
+Contributing to this document is very welcome. Please submit a new pull request with your changes.
 
 ## Used by
 
-If you've found the guide useful, or have used it to help run your conference, please reach out.
+If you've found the guide useful, or have used it (or any advice I or the other contributors have given in the past) to help run your conference, please reach out and we'll happily add your conference here.
