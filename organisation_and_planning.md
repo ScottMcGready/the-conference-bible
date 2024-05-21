@@ -61,7 +61,7 @@ Decide early about whether you want the talks recorded and shared online. Even i
 
 Having a bag of cables, clickers, dongles, usb sticks, batteries, and testing the equipment *before* the conference is highly recommended.
 
-When it comes to recording/streaming talks on the day, infosec conferences benefit from having the wonderful ![Cooper](https://twitter.com/Ministraitor) – and his rigs – on hand to help at most conferences. If you're planning on using his rigs, or calling in his services, please ![donate a mate](https://administraitor.video/buy_me_a_mate.html) or send him some sort of thank you. You can find his ![full (and incredibly modest) terms](https://administraitor.video/organizers/requirements.html) on his website, ![administraitor.video](https://administraitor.video). Simply put the man is a legend and donates a ridiculous amount of his time, experience, knowledge, and patience, helping film infosec conferences around the world.
+When it comes to recording/streaming talks on the day, infosec conferences benefit from having the wonderful [Cooper](https://twitter.com/Ministraitor) – and his rigs – on hand to help at most conferences. If you're planning on using his rigs, or calling in his services, please [donate a mate](https://administraitor.video/buy_me_a_mate.html) or send him some sort of thank you. You can find his [full (and incredibly modest) terms](https://administraitor.video/organizers/requirements.html) on his website, [administraitor.video](https://administraitor.video). Simply put the man is a legend and donates a ridiculous amount of his time, experience, knowledge, and patience, helping film infosec conferences around the world.
 
 ## Branding
 
@@ -69,7 +69,7 @@ While branding may be considered a "nice to have" element of the conference, it 
 
 Social media promo images, speaker cards, schedule books, and even slide templates (for opening & closing remarks) can make such a difference to the overall feel of the conference if planned for in advance.
 
-Using templates provided by online tools, such as ![Canva](https://canva.com), can help make this process much easier.
+Using templates provided by online tools, such as [Canva](https://canva.com), can help make this process much easier.
 
 ## Budgeting
 
