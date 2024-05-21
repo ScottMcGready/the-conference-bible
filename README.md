@@ -9,25 +9,26 @@ This document is still a work in progress. I'll likely split out things into the
 2. [Why run a conference?](#why-run-a-conference)
 3. [Organisation and planning](#organisation)
 	1. [Advisors](#advisors)
-	2. [AV & tech](#av--tech)
-	3. [Branding](#branding)
-	4. [Budgeting](#budgeting)
-	5. [Backups](#backups)
-	6. [Controversy](#controversy)
-	7. [Comms strategy](#comms-strategy)
-	8. [Food](#food)
-	9. [Keynote or not](#keynotes)
-	10. [Legality](#legality)
-	11. [Location](#location)
-	12. [Logistics](#logistics)
-	13. [Multi-tracks](#multi-tracks)
-	14. [Publicity](#publicity)
-	15. [Recordings](#recordings)
-	16. [Scheduling](#scheduling)
-	17. [Swag](#swag)
-	18. [Team](#team)
-	19. [Timescales](#timescales)
-	20. [Volunteers](#volunteers)
+ 	2. [After party](#after-party)
+	3. [AV & tech](#av--tech)
+	4. [Branding](#branding)
+	5. [Budgeting](#budgeting)
+	6. [Backups](#backups)
+	7. [Controversy](#controversy)
+	8. [Comms strategy](#comms-strategy)
+	9. [Food](#food)
+	10. [Keynote or not](#keynotes)
+	11. [Legality](#legality)
+	12. [Location](#location)
+	13. [Logistics](#logistics)
+	14. [Multi-tracks](#multi-tracks)
+	15. [Publicity](#publicity)
+	16. [Recordings](#recordings)
+	17. [Scheduling](#scheduling)
+	18. [Swag](#swag)
+	19. [Team](#team)
+	20. [Timescales](#timescales)
+	21. [Volunteers](#volunteers)
 	22. [Volunteers - AV](#volunteers---av)
 	21. [Volunteers - General](#volunteers---general)
 	23. [Volunteers - MC's](#volunteers---mcs)
@@ -72,6 +73,10 @@ Things will change, go wrong, or not quite stick to the original plan and that's
 ### Advisors 
 
 Having a friendly face that's done it all before can massively reduce the pressure of running an event. Their guidance and experience can help 
+
+### After party
+
+TBC
 
 ### AV & tech
 
