@@ -19,6 +19,7 @@ As an organiser you should ask yourself if you want to *attend* a conference or 
 
 Documentation is split into the following sections:
 
+* [Types of conference](types_of_conference.md)
 * [Organisation and planning](organisation_and_planning.md)
 * [Day Guides](guides.md)
 * [Post conference](post_conference.md)

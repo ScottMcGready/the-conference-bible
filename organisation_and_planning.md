@@ -1,52 +1,36 @@
-## Sections
-1. [Overview](#overview)
-2. [Why run a conference?](#why-run-a-conference)
-3. [Types of conference](#types-of-conference)
-	1. Location types
-   		1. In-person
-		2. Virtual
-   		3. Hybrid
-	2. Speaker cohort
-   		1. New speakers
-   		2. Seasoned speakers
-5. [Organisation and planning](#organisation)
-	1. [Advisors](#advisors)
- 	2. [After party](#after-party)
-	3. [AV & tech](#av--tech)
-	4. [Branding](#branding)
-	5. [Budgeting](#budgeting)
-	6. [Backups](#backups)
-	7. [Controversy](#controversy)
-	8. [Comms strategy](#comms-strategy)
- 	9. [CTF](#ctf)
-	10. [Food](#food)
-	11. [Keynote or not](#keynotes)
-	12. [Legality](#legality)
-	13. [Location](#location)
-	14. [Logistics](#logistics)
-	15. [Multi-tracks](#multi-tracks)
-	16. [Publicity](#publicity)
-	17. [Recordings](#recordings)
-	18. [Scheduling](#scheduling)
-	19. [Swag](#swag)
-	20. [Team](#team)
-	21. [Timescales](#timescales)
-	22. [Volunteers](#volunteers)
-		1. [Volunteers - AV](#volunteers---av)
-		2. [Volunteers - General](#volunteers---general)
-		3. [Volunteers - MC's](#volunteers---mcs)
-		4. [Volunteers - Runners](#volunteers---runners)
-6. [Guides](#guides)
-	1. [Organisers](#organiser-guide)
-	2. [Volunteers](#volunteer-guide)
-	3. [Speakers](#speaker-guide)
-	4. [Track](#track-guide)
-7. [Post conference](#post-conference)
-8. [Common mistakes and tips](#common-mistakes-and-tips)
-
-
-
 # Organisation and planning
+
+<details>
+<summary>Document sections</summary>
+
+1. [Advisors](#advisors)
+2. [After party](#after-party)
+3. [AV & tech](#av--tech)
+4. [Branding](#branding)
+5. [Budgeting](#budgeting)
+6. [Backups](#backups)
+7. [Controversy](#controversy)
+8. [Comms strategy](#comms-strategy)
+9. [CTF](#ctf)
+10. [Food](#food)
+11. [Keynotes](#keynotes)
+12. [Legality](#legality)
+13. [Location](#location)
+14. [Logistics](#logistics)
+15. [Multi-tracks](#multi-tracks)
+16. [Publicity](#publicity)
+17. [Recordings](#recordings)
+18. [Scheduling](#scheduling)
+18. [Sponsors](#sponsors)
+19. [Swag](#swag)
+20. [Team](#team)
+21. [Timescales](#timescales)
+22. [Volunteers](#volunteers)
+	1. [Volunteers - AV](#volunteers---av)
+	2. [Volunteers - General](#volunteers---general)
+	3. [Volunteers - MC's](#volunteers---mcs)
+	4. [Volunteers - Runners](#volunteers---runners)
+</details>
 
 Generally speaking, planning and executing a traditional conference will follow the following pattern:
 
@@ -105,11 +89,15 @@ While the vast majority of conferences go ahead without a single hitch, you shou
 
 Having an effective communication strategy is important. Speakers, attendees, sponsors, and even volunteers like to be kept in the loop at every stage of the plan. 
 
+## CTF
+
+TBC
+
 ## Food
 
 TBC
 
-## Keynote or not
+## Keynotes
 
 Having a keynote (or multiple) planned early . Keynotes should set the tone for the whole day and, in an ideal world, most of the talks should follow a similar theme
 
@@ -117,7 +105,7 @@ Having a keynote (or multiple) planned early . Keynotes should set the tone for 
 
 TBC
 
-## Location (online / offline / hybrid)
+## Location
 
 During the COVID-19 pandemic, attending and organising remote conferences became the norm for many of us. Recently things have gone back to normality a bit with in-person being the preferred option however 
 
@@ -145,6 +133,10 @@ Some speakers don't want to be recorded. You owe it to those that do to provide 
 
 Plan buffer time between talks to allow for movement between tracks. Don't stack a slew of talks together especially longer ones, we are all human and will end up fidgeting and dropping out of talks to break up sitting still for so long. Putting three hour long talks together could have some tactical seating of people skipping the middle or last talk in a set to preserve their attention span for later in the day.
 
+## Sponsors
+
+TBC
+
 ## Swag
 
 Many conferences give swag to attendees and speakers.
@@ -169,18 +161,18 @@ Putting a call for volunteers out early is incredibly important. Volunteers can 
 
 Volunteers can be broken down into four distinct groups – AV technicians, General, MCs, and Runners. While 
 
-## Volunteers - AV
+### Volunteers - AV
 
 Will support the speaker ensuring that they are comfortable and understand if they can move around the stage or need to stay at a podium if they are not mic'ed up. AV can be a very rewarding role but is often daunting for a first time volunteer so a few experienced AV staff on hand will smooth this over.
 
-## Volunteers - General
+### Volunteers - General
 
 Signposting attendees to talks, controlling access to track's after a talk has started to ensure no disruption for the speaker. In the event of an emergency, they will form part of the escorts to safely leave a building.
 
-## Volunteers - MC's
+### Volunteers - MC's
 
 MCs are the face of your conference when you're not around. They will introduce speakers, field questions and "run" a track.
 
-## Volunteers - Runners
+### Volunteers - Runners
 
 Something always happens, use the runners to go and get the extra AAA batteries for the microphones, or to simply ensure staff get to eat during the day, it's easy to get caught up.
