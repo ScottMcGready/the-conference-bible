@@ -1,6 +1,6 @@
 # Running a track
 
-Each track should have an absolute minimum of 3 volunteers present at any given moment, each with their own specific task. These types are usually [MC](#the-mc-role), [AV](#the-av-role), and [runner](#the-runner-role). All volunteers should have a copy of the schedule for their track to hand, and be aware of any 
+Each track should have an absolute minimum of 3 volunteers present at any given moment, each with their own specific task. These types are usually [MC](#the-mc-role), [AV](#the-av-role), and [runner](#the-runner-role). All volunteers should have a copy of the schedule for their track to hand, and be aware of any potential issues, special requests, or acommodations that need to be made.
 
 ## Introductions
 
