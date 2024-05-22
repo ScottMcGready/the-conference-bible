@@ -1,6 +1,6 @@
 # Types of conference
 
-Considering which type of conference you want to run and what format early helps planning immensely. While it's not impossible to run a free for all style conference, both in terms of speaker types *and* format, it can exponentially increase the difficulty when combining multiple in order to run it well.
+Considering which type of conference you want to run and what format early helps planning immensely. While it's not impossible to run a free for all style conference, both in terms of [speaker types](#speaker-cohort) *and* [format](#format), it can exponentially increase the difficulty when combining multiple in order to run it efficiently.
 
 ## Format
 
@@ -10,9 +10,11 @@ There are three types of format your conference can benefit from - [in-person](#
 
 Pre, and post, pandemic this is the most common form of event you may encounter. Given that it's a purely physical event, it requires a suitable venue, AV equipment, and potentially catering, or security on site.
 
-Venues that tick all the boxes can be difficult to obtain, and some may even object to the type of conference run at their location. Care should be taken when selecting sponsors, exhibitors, speakers, and even attendees in mind of the venue's own code of conduct, ethics, rules, or morals.
+Venues that tick all the boxes can be difficult to obtain, and some may even object to the type of conference run at their location. Care should be taken when selecting sponsors, exhibitors, speakers, and even attendees in mind of the venue's own code of conduct, ethics, rules, or morals. Having an open and candid relationship with the venue allows for any issues and concerns to be addressed ahead of the event.
 
-Crowd control at in-person events can be a logistical nightmare to manage. It's worth planning for "dilution" of attendees - such as at break times, or during travel to offsite locations (such as after parties, etc).
+Crowd control at in-person events can be a logistical nightmare to manage. Having extra volunteers, especially those skilled in crowd control (read: with a loud voice) to herd the masses in times of need can be crucial.
+
+It's worth planning for "dilution" of attendees too - such as at break times, or during travel to offsite locations (such as after parties, etc). These dilution episodes can impact later talks, panels, situation where audience participation is required, or even the after party attendee numbers. If your after party venue opens a while after the conference ends, it's in a different location, and you expect people to make their own way to the after party venue, many may disappear to another bar and get distracted. It may be a consideration to put on a bus to shuttle people from the conference to the after party venue.
 
 ### Virtual
 
@@ -28,7 +30,7 @@ In short - ensure your broadcast location has both a failover solution and a con
 
 ### Proven virtual tools
 
-The following is a list of tools people have used for various virual conferences. This is not a de-facto list or must have, rather a collection of "known good" tools that have survived many thousands of hours broadcast.
+The following is a list of tools people have used successfully for various virual conferences. This is not a gold standard list but rather a collection of "known good" tools that have survived many thousands of hours broadcast, or many attendees at one time.
 
 - Discord
 - Gather
