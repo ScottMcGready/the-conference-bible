@@ -24,6 +24,7 @@ Documentation is split into the following sections:
 * [Organisation and planning](organisation_and_planning.md)
 * [Day Guides](/guides/guides_overview.md)
 	* [AV crew](/guides/av_crew.md)
+	* [Broadcast](/guides/broadcast.md)
 	* [Organisers](/guides/organisers.md)
 	* [Speakers (in person)](/guides/speakers-in_person.md)
 	* [Speakers (virtual)](/guides/speakers-virtual.md)
