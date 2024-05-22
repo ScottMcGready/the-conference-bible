@@ -19,7 +19,13 @@ Having a friendly face that's done it all before can massively reduce the pressu
 
 ## After party
 
-TBC
+Many conferences now offer an official after party. Often a sponsor slot will be dedicated to purely sponsoring the after party activities, food, or bar tab.
+
+If you're offering a free bar tab, or drinks/food tokens, this needs to be managed carefully especially if the after party is hosted in an area where members of the public may roam in. Wrist bands, physical tokens, or even conference badges can be used as a validation method that the person asking for a free round of drinks was a genuine attendee.
+
+Considerations should be given towards attendees around the theme of the after party. For example: if the after party is a BBQ event, that might not cater for vegans/vegetarians. Similarly, if the after party is solely based around free alcoholic drinks, attendees may be non-drinkers.
+
+Care should be taken to avoid dilution of attendees between the conference and the after party. You can read more about dilution, and how to avoid it, on the [types of conference guide](types_of_conference.md#in---person).
 
 ## AV & tech
 
@@ -27,13 +33,17 @@ Decide early about whether you want the talks recorded and shared online. Even i
 
 Having a bag of cables, clickers, dongles, usb sticks, batteries, and testing the equipment *before* the conference is highly recommended.
 
+> An "MVP" track pack would be a projector, an HDMI cable, USB memory stick, USB clicker, a power extension lead, and a laptop capable of outputting HDMI and accepting both a USB memory stick and clicker at the same time.
+
 When it comes to recording/streaming talks on the day, infosec conferences benefit from having the wonderful [Cooper](https://twitter.com/Ministraitor) – and his rigs – on hand to help at most conferences. If you're planning on using his rigs, or calling in his services, please [donate a mate](https://administraitor.video/buy_me_a_mate.html) or send him some sort of thank you. You can find his [full (and incredibly modest) terms](https://administraitor.video/organizers/requirements.html) on his website, [administraitor.video](https://administraitor.video). Simply put the man is a legend and donates a ridiculous amount of his time, experience, knowledge, and patience, helping film infosec conferences around the world.
 
 ## Branding
 
 While branding may be considered a "nice to have" element of the conference, it can make a huge impact to many aspects you might not have considered. Similarly, sponsors may be put off giving money (or haggling down the amounts) if the conference looks a bit "too cheap" or that you haven't given any care in its' presentation.
 
-Social media promo images, speaker cards, schedule books, and even slide templates (for opening & closing remarks) can make such a difference to the overall feel of the conference if planned for in advance.
+Social media promo images, [speaker cards](#speaker-cards), schedule books, and even slide templates (for opening & closing remarks) can make such a difference to the overall feel of the conference if planned for in advance. PSD and AI templates are freely available online for various social networks to ensure sizing is correct for each platform.
+
+Consider creating header banner images that organisers, volunteers, speakers, and attendees can add to their social media profile to increase publicity around your conference.
 
 Using templates provided by online tools, such as [Canva](https://canva.com), can help make this process much easier.
 
@@ -61,14 +71,20 @@ Although rare to see as they require a higher effort on production, intro and pr
 
 **Example videos:**
 
-[![BeerCon2 Intro](https://img.youtube.com/vi/UoCsSa2mjcU/0.jpg)](https://www.youtube.com/watch?v=UoCsSa2mjcU)
 BeerCon2 intro video
 
-[![BeerCon3 Promo](https://img.youtube.com/vi/TOrMR-Cltl0/0.jpg)](https://www.youtube.com/watch?v=TOrMR-Cltl0)
+[![BeerCon2 Intro](https://img.youtube.com/vi/UoCsSa2mjcU/0.jpg)](https://www.youtube.com/watch?v=UoCsSa2mjcU)
+
+
 BeerCon3 promo video
 
-[![BeerCon3 Intro](https://img.youtube.com/vi/O412m_fxy2k/0.jpg)](https://www.youtube.com/watch?v=O412m_fxy2k)
+[![BeerCon3 Promo](https://img.youtube.com/vi/TOrMR-Cltl0/0.jpg)](https://www.youtube.com/watch?v=TOrMR-Cltl0)
+
+
 BeerCon3 intro video
+
+[![BeerCon3 Intro](https://img.youtube.com/vi/O412m_fxy2k/0.jpg)](https://www.youtube.com/watch?v=O412m_fxy2k)
+
 
 ## Budgeting
 
@@ -194,7 +210,7 @@ It's worth considering opening up sponsorship to smaller start-ups and community
 
 Many conferences give swag to attendees and speakers.
 
-As a speaker or attendee, swag is nice to receive but it shouldn't be something that is expected. Budgets can be limited, and size based swag (like t-shirts) can be a nightmare to accurately predict. Swag should be seen as a "nice to have" rather than a "must have" using the leftover budget from the sponsors. There's a sustainability aspect to swag to consider, is it a t-shirt that will fade after a couple of washes, or a gimmick which is discarded or broken a week later.
+As a speaker or attendee, swag is nice to receive but it shouldn't be something that is expected. Budgets can be limited, and size based swag (like t-shirts) can be a nightmare to accurately predict. Swag should be seen as a "nice to have" rather than a "must have" using the leftover budget from the sponsors. There's a sustainability aspect to swag to consider, is it a t-shirt that will fade after a couple of washes, or a gimmick which is discarded or broken a week later?
 
 ## Team
 
