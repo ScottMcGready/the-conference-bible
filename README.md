@@ -10,7 +10,6 @@ Although this document is heavily focused towards cyber security conferences, ma
 ## Why run a conference?
 ![y tho](https://i.kym-cdn.com/entries/icons/original/000/022/978/y_tho_meme.jpg)
 
-
 If you are planning to run a conference, you should have a clear goal in mind for *why* you want to run a conference in the first place. It doesn't need to be a revolutionary, world changing, or ground breaking thought – but running a conference because "it ran the year before" or attempting to "keep up with the Jones'" will lead to a disappointing experience for everyone involved.
 
 Conferences can be _incredibly_ fun to organise and run, if they're done right. Sometimes, however, they can be incredibly stressful affairs for everyone if not enough thought, planning, or resilience is built in.
@@ -36,7 +35,7 @@ Documentation is split into the following sections:
 
 ## Contributing
 
-Contributing to this document is very welcome. Please submit a new pull request with your changes.
+Contributing to this document is very welcome and encouraged. To make edits, [fork](https://github.com/ScottMcGready/the-conference-bible/fork) this repository, make your changes, and submit a Pull Request for review.
 
 ## As used by
 

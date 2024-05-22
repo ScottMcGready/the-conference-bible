@@ -6,6 +6,8 @@ Before the conference, pick a time to come back together and discuss the event, 
 
 Asking attendees, speakers, sponsors, and even volunteers for feedback is critical - especially if you plan to run the same, or similar, conference again in future. Feedback can help trim any "filler" parts of a conference out and give you, as organisers, a better idea of what needs extra - or indeed less - planning and thought next time.
 
+Feedback can be collected via any online form method although care should be taken to tailor it to each group (for example - asking "what was your favourite talk" as a mandatory question if a sponsor has been stuck on the stand all day might lead to skewed results or worse, an abandoned form).
+
 ## Recordings
 
 While it may be tempting to deal with the recordings at a later date, it's highly recommended to get them edited. Recordings of talks fall into an interesting category whereby it's partly (or fully) owned by yourself, as a representitive of the conference you're running, but also by the speaker themselves. Speakers are keen to see their own recordings released for many different reasons, and it's worth noting this should be treated with the umpost respect.
@@ -19,6 +21,10 @@ Stingers (intro/outtro/mid break videos) should be prepped in advance in as many
 Investigate video hosting platforms limitations ahead of the conference, and doing trial uploads, can help reduce any problems that may be encountered during the upload phase. As an example, YouTube restricts the number of videos that can be uploaded in a 24 hour period for new accounts. Therefore it may be prudent to do an upload session at 11.30pm and 0.30 am (internet connectivity dependant) meaning all, or most, recordings are uploaded at a similar time rather than days, weeks, or even months between recording uploads.
 
 Having a clear timeline of release should be (regularly) communicated to everyone before, during, and after the conference to ensure speakers can see their own artefacts online as soon as possible, but to also avoid consistent questions like "when will the recordings be up?".
+
+### Subtitling
+
+Adding subtitles, while a lengthy process, can add more accessibility to the recordings and open it up to a wider audience.
 
 ## Transparency report
 
