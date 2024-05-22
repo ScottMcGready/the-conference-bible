@@ -37,6 +37,16 @@ Having a bag of cables, clickers, dongles, usb sticks, batteries, and testing th
 
 When it comes to recording/streaming talks on the day, infosec conferences benefit from having the wonderful [Cooper](https://twitter.com/Ministraitor) – and his rigs – on hand to help at most conferences. If you're planning on using his rigs, or calling in his services, please [donate a mate](https://administraitor.video/buy_me_a_mate.html) or send him some sort of thank you. You can find his [full (and incredibly modest) terms](https://administraitor.video/organizers/requirements.html) on his website, [administraitor.video](https://administraitor.video). Simply put the man is a legend and donates a ridiculous amount of his time, experience, knowledge, and patience, helping film infosec conferences around the world.
 
+## Backups
+
+Speakers can drop out for a variety of reasons – both in person and virtual – so planning for an eventuality where one, or more, speakers drop out is a very worthwhile endeavour. Having reserve talks (with speakers), a panel, mini-workshop, or fun item able to be dropped in to the schedule at the last minute.
+
+Similar to speakers, there's a possibility an organiser or volunteer may drop out on the day. You should aim to build resilience into your conference so that, if an organiser or volunteer were to drop out, their responsibilities can either be spread among the remaining volunteers or reserve volunteers can be called upon on the day.
+
+Having a shared document repository or password manager can help ensure that the event will continue regardless of what challenges it faces.
+
+[As the big man once said](https://www.youtube.com/watch?v=t99KH0TR-J4), the show must go on.
+
 ## Branding
 
 While branding may be considered a "nice to have" element of the conference, it can make a huge impact to many aspects you might not have considered. Similarly, sponsors may be put off giving money (or haggling down the amounts) if the conference looks a bit "too cheap" or that you haven't given any care in its' presentation.
@@ -51,7 +61,9 @@ Using templates provided by online tools, such as [Canva](https://canva.com), ca
 
 ### OBS overlays
 
-TBC
+OBS ([Open Broadcaster Software](https://obsproject.com/)) is a popular tool of choice for streaming and recording events. Due to its popularity, it's often the tool of choice at many conferences. OBS has a high level of customisation for your stream or recording, meaning that you can take many feeds from different sources (such as webcams, presentations, microphones, and more), and combine them together into one single output.
+
+If you're not using [Cooper's rigs](#av--tech), you'll need to figure out how best to broadcast any in-person or remote speaker you have. Obviously you can stream parts of the conference without having fancy stuff like OBS overlays, but it can make a huge difference to the overall look and feel of your conference.
 
 ### Speaker cards
 
@@ -61,15 +73,15 @@ Care should be taken to ensure speaker, or sponsor, cards don't "wash out" spons
 
 **Examples of speaker cards:**
 
-![Bsides Leeds](media/speaker-card-bsides-leeds.png)
+![Bsides Leeds](assets/speaker-card-bsides-leeds.png)
 
-![BeerCon2](media/speaker-card-bc2.png)
+![BeerCon2](assets/speaker-card-bc2.png)
 
-![BeerCon3](media/speaker-card-bc3.png)
+![BeerCon3](assets/speaker-card-bc3.png)
 
-![Hack Thursday](media/speaker-card-hack-thursday.png)
+![Hack Thursday](assets/speaker-card-hack-thursday.png)
 
-![Bsides Lancashire](media/speaker-card-bsides-lancs.png)
+![Bsides Lancashire](assets/speaker-card-bsides-lancs.png)
 
 ### Videos
 
@@ -107,16 +119,6 @@ Be aware that accepting credit card payments, or selling tickets on platforms li
 
 Having [money left over](post_conference.md#money) in the bank account after a conference is an ideal situation to be in – especially if there's plans to re-run the conference at a future date (or help out another conference).
 
-## Backups
-
-Speakers can drop out for a variety of reasons – both in person and virtual – so planning for an eventuality where one, or more, speakers drop out is a very worthwhile endeavour. Having reserve talks (with speakers), a panel, mini-workshop, or fun item able to be dropped in to the schedule at the last minute.
-
-Similar to speakers, there's a possibility an organiser or volunteer may drop out on the day. You should aim to build resilience into your conference so that, if an organiser or volunteer were to drop out, their responsibilities can either be spread among the remaining volunteers or reserve volunteers can be called upon on the day.
-
-Having a shared document repository or password manager can help ensure that the event will continue regardless of what challenges it faces.
-
-The show must go on.
-
 ## Call for papers (CFP)
 
 Putting out a call for papers (or call for presentations), commonly called CFP, as early as possible can maximise the quality submissions you will receive.
@@ -133,7 +135,9 @@ In a **fully anonymised** CFP process, identifiable speaker information, review 
 
 ### Attracting submissions
 
-TBC
+Arguably the most nervewracking part of putting together a conference is the submission stage of the CFP. Reach out to as many organisations and groups as you can to publicise the CFP.
+
+Some people may be nervous about applying and feel the need for [mentorship](#speaker-mentorship), regardless if they're a first time speaker or not. It's worth highlighting on the CFP if you intend to provide mentorship, should the speaker choose it.
 
 ### Sift
 
@@ -161,11 +165,15 @@ Having an effective communication strategy is important. Speakers, attendees, sp
 
 Most infosec conferences run a Capture The Flag (CTF) style event along side their main event.
 
-Physical CTFs (such as scavenger hunts) that require people to run around the venue can bring a level of disruption you may not be prepared for.
+Physical CTFs (such as scavenger hunts) that require people to run around the venue can bring a level of disruption you, or your speakers, may not be prepared for.
 
 ## Food
 
-TBC
+Providing food for everyone onsite can be challenging with different preferences, allergies, intolerances, and more. If your venue is lucky enough to be situated near food and drink offerings, it may be wiser to allow people to sort themselves out (although be mindful of [dilution](types_of_conference.md#in-person)).
+
+Many venues, such as Universities, have their own catering or some even have their own rules surrounding external caterers. It's recommended to have a chat with your venue to understand what can, and can't happen.
+
+> Note: If you pencil in a coffee break on the schedule, make sure there's **actually** tea and coffee on site.
 
 ## Green room
 
@@ -205,7 +213,9 @@ Many conferences now follow a "multi-track" format. This can allow you to accept
 
 ## Publicity
 
-TBC
+Scheduling regular posts on social media platforms to publicise the calls for [volunteers](#volunteers), [sponsors](#sponsors), [speakers](#call-for-papers-cfp) is a good idea to maximise publicity for your conference.
+
+Having automated posts scheduled during the conference for each speaker on, or around, their speaking slot may seem like a good idea but schedules can be fluid and speakers can drop out on the day. Having a posts drafted and a dedicated volunteer to push them out just before and during the talks are a good alternative and can save conflicting information going out on social media.
 
 ## Recordings
 
