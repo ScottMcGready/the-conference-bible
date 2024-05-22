@@ -43,23 +43,32 @@ Speaker cards can drive interest in the event as they normally are shared by the
 
 Care should be taken to ensure speaker, or sponsor, cards don't "wash out" sponsor logos or speaker pictures. Sponsors can often be **very** protective of their brand and how it's presented, hence always check their brand guidelines, if they're available.
 
-Examples of speaker cards:
+**Examples of speaker cards:**
 
 ![Bsides Leeds](media/speaker-card-bsides-leeds.png)
+
 ![BeerCon2](media/speaker-card-bc2.png)
+
 ![BeerCon3](media/speaker-card-bc3.png)
+
 ![Hack Thursday](media/speaker-card-hack-thursday.png)
+
 ![Bsides Lancashire](media/speaker-card-bsides-lancs.png)
 
 ### Videos
 
 Although rare to see as they require a higher effort on production, intro and promo videos can help give your conference an extra flair.
 
-Example videos:
+**Example videos:**
 
 [![BeerCon2 Intro](https://img.youtube.com/vi/UoCsSa2mjcU/0.jpg)](https://www.youtube.com/watch?v=UoCsSa2mjcU)
+BeerCon2 intro video
+
 [![BeerCon3 Promo](https://img.youtube.com/vi/TOrMR-Cltl0/0.jpg)](https://www.youtube.com/watch?v=TOrMR-Cltl0)
+BeerCon3 promo video
+
 [![BeerCon3 Intro](https://img.youtube.com/vi/O412m_fxy2k/0.jpg)](https://www.youtube.com/watch?v=O412m_fxy2k)
+BeerCon3 intro video
 
 ## Budgeting
 
@@ -83,7 +92,27 @@ The show must go on.
 
 ## Call for papers (CFP)
 
+Putting out a call for papers (or call for presentations), commonly called CFP, as early as possible can maximise the quality submissions you will receive.
+
+Using platforms like [papercall.io](https://papercall.io), [sessionize](https://sessionize.com/), or even a simple [Google form](https://docs.google.com/forms) can make the CFP submission and sift process far easier to manage.
+
+Making it clear what format the CFP takes (whether it's fully open, semi-anonymised, or fully anonymised) allows speakers to know where they stand upon submission.
+
+In a **fully open** CFP process, no speaker information is redacted from a submission and speakers are aware of who is making the call on whether to accept their talk or not.
+
+In a **semi-anonymised** CFP process identifiable speaker information, review board comments, or the identity of the CFP review board can be redacted during the sift phase. Semi-anonymous reviews can be useful to avoid bias - or the perception of bias - between speakers and the review board themselves.
+
+In a **fully anonymised** CFP process, identifiable speaker information, review board comments, and the CFP review board themselves are completely anonymous. This anonymity avoids any bias, either perceived or actual, in selection or between the review board. It's not uncommon for fully anonymous CFP processes to remain sealed long after the conference has passed.
+
+### Attracting submissions
+
 TBC
+
+### Sift
+
+Sifting through CFPs can feel like a daunting task, especially if you've received a large number. It's highly recommended to have a cohort of people to review talks to avoid any bias and have a scoring system in place to rank various talks based on general fit, theme, topic, etc.
+
+Rejecting speakers can be one of the hardest parts of the entire CFP process. Giving speakers constructive feedback as to why they weren't successful is always recommended.
 
 ## Code of conduct
 
