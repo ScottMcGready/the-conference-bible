@@ -207,14 +207,6 @@ Many events are held within modern venues where modern facilities are available 
 
 On a similar note, understanding accessibility for your conference, pre-conference, and after party can ensure that nobody has to be turned away due to the venue not being fully accessible.
 
-## Multi-tracks
-
-Many conferences now follow a "multi-track" format. This can allow you to accept more talks than you originally had planned for. Be aware however that complexity of running a multi-track conference increases greatly with each additional track, [workshop](#workshops), or [village](#villages). Not every conference needs multiple tracks and, while it might be disappointing to reject speakers, sometimes the simplicity of having a single track is appealing.
-
-### Kids track
-
-TBC
-
 ## Publicity
 
 Scheduling regular posts on social media platforms to publicise the calls for [volunteers](#volunteers), [sponsors](#sponsors), [speakers](#call-for-papers-cfp) is a good idea to maximise publicity for your conference.
@@ -269,32 +261,12 @@ Giving speakers at least a month (ideally more) notice that they've been selecte
 
 Having clear defined schedules of when certain parts need to be solidified (such as venue, sponsorship collection, swag purchase, or speaker comms) can reduce the stress levels of the entire conference.
 
-## Villages
+## Tracks
 
-TBC
+Deciding how many [tracks, workshops, and villages](tracks_workshops_villages.md) you want to run during your conference. Remember - the more tracks, the more complexity is involved in planning, management, and running each one.
 
 ## Volunteers
 
 Putting a call for volunteers out early is incredibly important. Volunteers can have vastly different skillsets meaning some are far more comfortable being front of house "MC's" while others prefer some behind the scenes roles. Understanding the strengths and weaknesses of your volunteer team is vital to keep the conference running smoothly. Consider asking prospective volunteers if they volunteer at other events, or what particular skills they have so you can adjust accordingly.
 
-Volunteers can be broken down into four distinct groups – AV technicians, General, MCs, and Runners. Volunteers should be "stuck" to their role for the entire conference period (meaning that an MC shouldn't be pulled to be a runner and a runner shouldn't be pulled to be an AV tech) however, things happen. Understand your volunteer cohorts' skillsets and utilize them as best you can.
-
-### Volunteers - AV
-
-Will support the speaker ensuring that they are comfortable and understand if they can move around the stage or need to stay at a podium if they are not mic'ed up. AV can be a very rewarding role but is often daunting for a first time volunteer so a few experienced AV staff on hand will smooth this over.
-
-### Volunteers - General
-
-Signposting attendees to talks, controlling access to track's after a talk has started to ensure no disruption for the speaker. In the event of an emergency, they will form part of the escorts to safely leave a building.
-
-### Volunteers - MC's
-
-MCs are the face of your conference when you're not around. They will introduce speakers, field questions and "run" a track.
-
-### Volunteers - Runners
-
-Something always happens, use the runners to go and get the extra AAA batteries for the microphones, or to simply ensure staff get to eat during the day, it's easy to get caught up.
-
-## Workshops
-
-TBC
+For more information, check the [volunteer management](volunteer_management.md) page.

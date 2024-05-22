@@ -30,6 +30,8 @@ This is the person that is representing your entire conference. It's often the p
 
 You should choose someone to be an MC who's confident at public speaking, charismatic, able to keep the track to time, but also canny enough to allow certain talks to over-run (or indeed under-run) if the situation allows.
 
+TBC stick to schedule
+
 ### The AV role
 
 TBC

@@ -22,6 +22,8 @@ Documentation is split into the following sections:
 
 * [Types of conference](types_of_conference.md)
 * [Organisation and planning](organisation_and_planning.md)
+* [Tracks, workshops, and villages](tracks_workshops_villages.md)
+* [Volunteer management](volunteer_management.md)
 * [Day Guides](/guides/guides_overview.md)
 	* [AV crew](/guides/av_crew.md)
 	* [Broadcast](/guides/broadcast.md)
