@@ -117,9 +117,11 @@ TBC
 
 Some speakers don't want to be recorded, and that's absolutely fine. You do, however, owe it to those that do want it recorded to provide them with an artefact worthy of going on a CV. Work with the AV team to ensure your vision of the end product matches what they produce.
 
+Things can fail, and this should be planned for. Have a backup plan (such as ensuring audio and video of speakers is always recorded but slides can be ditched) for eventualities whereby technology fals on the day. Remember - you can always ask a speaker to send their slides later and splice that into the recording, you can't ask them to regurgitate a funny anecdote based off of a situation that happened on the day with the same humour and charisma that was shown on stage.
+
 ## Scheduling
 
-Plan buffer time between talks to allow for movement between tracks. Don't stack a slew of talks together especially longer ones, we are all human and will end up fidgeting and dropping out of talks to break up sitting still for so long. Putting three hour long talks together could have some tactical seating of people skipping the middle or last talk in a set to preserve their attention span for later in the day.
+Plan buffer time between talks to allow for movement between tracks. Don't stack a slew of talks together, especially longer ones – we are all human and will end up fidgeting and dropping out of talks to break up sitting still for so long. Putting 3 x hour long talks together could have some tactical seating of people skipping the middle, or last talk, in a set to preserve their attention span for later in the day.
 
 ## Sponsors
 
