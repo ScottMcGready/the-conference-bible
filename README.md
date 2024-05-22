@@ -43,5 +43,6 @@ Contributing to this document is very welcome and encouraged. To make edits, [fo
 
 If you've found the guide useful, or have used it (or any advice I or the other contributors have given in the past) to help run your conference, please reach out and we'll happily add your conference or meet-up here.
 
+- [ENUSEC's Le Tour Du Hack](https://enusec.org/)
 - [Hackademia](https://hackademia.ac/)
 - [Hack Thursday](https://hackthurs.day)

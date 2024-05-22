@@ -12,19 +12,19 @@ If you're running a hybrid conference, it's worth making sure a few volunteers i
 
 The following diagram assumes the conference is running purely virtually, where everyone (in effect) is a remote speaker, including the hosts.
 
-![Broadcast setup](/media/broadcast-setup-remote.png)
+![Broadcast setup](/assets/broadcast-setup-remote.png)
 
 ### Hybrid conference, remote speaker broadcast setup
 
 Both straightforward surprisingly complex, remote speakers with live audiences can be a bit of a headscratcher at first. Ensure you have a decent enough microphone that can pick up the host and audience questions (something handheld is ideal but hosts can always repeat audience questions), and a decent enough camera so the remote speaker can see the host / audience. 
 
-![Broadcast setup](/media/broadcast-setup-hybrid.png)
+![Broadcast setup](/assets/broadcast-setup-hybrid.png)
 
 ### In-person broadcast setup
 
 Remarkably, if you have a setup similar to that of Cooper's, it's incredibly easy to take a feed from OBS and broadcast it via any streaming platform. If you are running an event that doesn't have access to Coopers rigs, or and recording equipment, the following rough guide should be enough.
 
-![Broadcast setup](/media/broadcast-setup-in-person.png)
+![Broadcast setup](/assets/broadcast-setup-in-person.png)
 
 ### Breakout rooms
 
