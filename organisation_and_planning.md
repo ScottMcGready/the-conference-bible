@@ -107,7 +107,7 @@ On a similar note, understanding accessibility for your conference, pre-conferen
 
 ## Multi-tracks
 
-Many conferences now follow a "multi-track" format. 
+Many conferences now follow a "multi-track" format. TBC
 
 ## Publicity
 
@@ -115,7 +115,7 @@ TBC
 
 ## Recordings
 
-Some speakers don't want to be recorded. You owe it to those that do to provide something worthy of going on a CV to share. Work with the AV team to ensure your vision of the end product matches what they will produce.
+Some speakers don't want to be recorded, and that's absolutely fine. You do, however, owe it to those that do want it recorded to provide them with an artefact worthy of going on a CV. Work with the AV team to ensure your vision of the end product matches what they produce.
 
 ## Scheduling
 
@@ -155,7 +155,7 @@ Having clear defined schedules of when certain parts need to be solidified (such
 
 Putting a call for volunteers out early is incredibly important. Volunteers can have vastly different skillsets meaning some are far more comfortable being front of house "MC's" while others prefer some behind the scenes roles. Understanding the strengths and weaknesses of your volunteer team is vital to keep the conference running smoothly. Consider asking prospective volunteers if they volunteer at other events, or what particular skills they have so you can adjust accordingly.
 
-Volunteers can be broken down into four distinct groups – AV technicians, General, MCs, and Runners. While 
+Volunteers can be broken down into four distinct groups – AV technicians, General, MCs, and Runners. Volunteers should be "stuck" to their role for the entire conference period (meaning that an MC shouldn't be pulled to be a runner and a runner shouldn't be pulled to be an AV tech) however, things happen. Understand your volunteer cohorts' skillsets and utilize them as best you can.
 
 ### Volunteers - AV
 
