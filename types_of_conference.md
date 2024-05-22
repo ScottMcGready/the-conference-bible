@@ -4,13 +4,15 @@ Considering which type of conference you want to run and what format early helps
 
 ## Format
 
-There are three types of format your conference can benefit from - [in-person](#in-person), [virtual](#virtual), and [hybrid](#hybrid). Each have their own challenges associated and this should play into any consideration when planning the format of your conference.
+There are three types of format your conference can benefit from - [in-person](#in-person), [virtual](#virtual), and [hybrid](#hybrid). Each have their own benefits, and challenges, associated and this should play into any consideration when planning the format of your conference.
 
 ### In-person
 
-Pre, and post, pandemic this is the most common form of event you may encounter.
+Pre, and post, pandemic this is the most common form of event you may encounter. Given that it's a purely physical event, it requires a suitable venue, AV equipment, and potentially catering, or security on site.
 
-location, food, after party, logistics, crowd handling, 
+Venues that tick all the boxes can be difficult to obtain, and some may even object to the type of conference run at their location. Care should be taken when selecting sponsors, exhibitors, speakers, and even attendees in mind of the venue's own code of conduct, ethics, rules, or morals.
+
+Crowd control at in-person events can be a logistical nightmare to manage. It's worth planning for "dilution" of attendees - such as at break times, or during travel to offsite locations (such as after parties, etc).
 
 ### Virtual
 
