@@ -136,6 +136,10 @@ TBC
 
 TBC
 
+## Green room
+
+TBC
+
 ## Keynotes
 
 Having a keynote (or multiple) planned early can help structure the overall theme of your conference and shape, or even boost, the talk or workshop submissions. 
@@ -211,6 +215,8 @@ Giving speakers at least a month (ideally more) notice that they've been selecte
 Having clear defined schedules of when certain parts need to be solidified (such as venue, sponsorship collection, swag purchase, or speaker comms) can reduce the stress levels of the entire conference.
 
 ## Villages
+
+TBC
 
 ## Volunteers
 
