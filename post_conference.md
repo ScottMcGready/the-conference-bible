@@ -8,6 +8,14 @@ Asking attendees, speakers, sponsors, and even volunteers for feedback is critic
 
 Feedback can be collected via any online form method although care should be taken to tailor it to each group (for example - asking "what was your favourite talk" as a mandatory question if a sponsor has been stuck on the stand all day might lead to skewed results or worse, an abandoned form).
 
+## Lessons learned
+
+Schedule a call between organisers and volunteers to discuss everything that went well, and parts that could do with improvement in future. Even if you have no intention of ever running the conference (or any conference) ever again, this kind of knowledge can be vital for this guide, and other conferences that may encounter similar situations.
+
+## Money
+
+Any money left over could potentially be used for planning the next iteration of your conference. There is a potential that sponsors still owe you money after the conference concludes. It's vital to continue to chase this money until all out-of-pocket expenses have been recouped.
+
 ## Recordings
 
 While it may be tempting to deal with the recordings at a later date, it's highly recommended to get them edited. Recordings of talks fall into an interesting category whereby it's partly (or fully) owned by yourself, as a representitive of the conference you're running, but also by the speaker themselves. Speakers are keen to see their own recordings released for many different reasons, and it's worth noting this should be treated with the umpost respect.
@@ -28,4 +36,4 @@ Adding subtitles, while a lengthy process, can add more accessibility to the rec
 
 ## Transparency report
 
-Consider writing a transparency report post-conference that outlines any statistics about your conference, where sponsorship money was spent, and any issues encountered. While it may feel a bit invasive, this can positively impact future sponsorship opportunities and pre-emptively stop any hard questions.
+Consider writing a transparency report post-conference that outlines any statistics about your conference, where sponsorship money was spent, and any issues encountered. While it may feel a bit invasive, this can positively impact future sponsorship opportunities and pre-emptively stop any hard questions, or incorrect assumptions by anyone external.

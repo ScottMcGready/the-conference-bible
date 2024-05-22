@@ -25,7 +25,7 @@ If you're offering a free bar tab, or drinks/food tokens, this needs to be manag
 
 Considerations should be given towards attendees around the theme of the after party. For example: if the after party is a BBQ event, that might not cater for vegans/vegetarians. Similarly, if the after party is solely based around free alcoholic drinks, attendees may be non-drinkers.
 
-Care should be taken to avoid dilution of attendees between the conference and the after party. You can read more about dilution, and how to avoid it, on the [types of conference guide](types_of_conference.md#in---person).
+Care should be taken to avoid dilution of attendees between the conference and the after party. You can read more about dilution, and how to avoid it, on the [types of conference guide](types_of_conference.md#in-person).
 
 ## AV & tech
 
@@ -94,7 +94,7 @@ Many sponsors will require an invoice to be sent to them and will pay within the
 
 Be aware that accepting credit card payments, or selling tickets on platforms like Eventbrite can incur fees. These fees may be a small amount of money in the grand scheme of things but if you're running
 
-Having money left over in the bank account after a conference is an ideal situation to be in – especially if there's plans to re-run the conference at a future date (or help out another conference).
+Having [money left over](post_conference.md#money) in the bank account after a conference is an ideal situation to be in – especially if there's plans to re-run the conference at a future date (or help out another conference).
 
 ## Backups
 
