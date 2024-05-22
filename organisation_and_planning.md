@@ -37,6 +37,28 @@ Social media promo images, speaker cards, schedule books, and even slide templat
 
 Using templates provided by online tools, such as [Canva](https://canva.com), can help make this process much easier.
 
+### Speaker cards
+
+Speaker cards can drive interest in the event as they normally are shared by the speaker, and sometimes the company they work for, on social media. Taking time to design a speaker card that fits with the conference theme can be very worthwhile and make your event stand out.
+
+Care should be taken to ensure speaker, or sponsor, cards don't "wash out" sponsor logos or speaker pictures. Sponsors can often be **very** protective of their brand and how it's presented, hence always check their brand guidelines, if they're available.
+
+Examples of speaker cards:
+![Bsides Leeds](media/speaker-card-bsides-leeds.jpeg)
+![BeerCon2](media/speaker-card-bc2.jpeg)
+![BeerCon3](media/speaker-card-bc3.jpeg)
+![Hack Thursday](media/speaker-card-hack-thursday.jpeg)
+![Bsides Lancashire](media/speaker-card-bsides-lancashire.jpeg)
+
+### Videos
+
+Although rare to see as they require a higher effort on production, intro and promo videos can help give your conference an extra flair.
+
+Example videos:
+[![BeerCon2 Intro](https://img.youtube.com/vi/UoCsSa2mjcU/0.jpg)](https://www.youtube.com/watch?v=UoCsSa2mjcU)
+[![BeerCon3 Promo](https://img.youtube.com/vi/TOrMR-Cltl0/0.jpg)](https://www.youtube.com/watch?v=TOrMR-Cltl0)
+[![BeerCon3 Intro](https://img.youtube.com/vi/O412m_fxy2k/0.jpg)](https://www.youtube.com/watch?v=O412m_fxy2k)
+
 ## Budgeting
 
 Understand exactly how much it'll cost to deliver a Minimum Viable Product (MVP) version of your conference and add on the additional "nice to have" bits later. Looking at other conferences' sponsor packs can be a good reference point to understand
