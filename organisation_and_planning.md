@@ -99,7 +99,11 @@ It's possible to do a conference as a "hybrid" event, allowing virtual attendees
 
 ## Logistics
 
-TBC
+Quiet rooms, prayer rooms, green rooms, and similar might seem like a "nice to have" - and while not every conference venue will be equiped to handle so many additional rooms - they can go a long way toward incusivity at your event.
+
+Many events are held within modern venues where modern facilities are available for all to use, but some are held in older buildings where these facilities are not available easily. In these cases, for example a prayer room, it's worth seeking out the nearest area that can be used in order to make your speakers, sponsors, or even attendees feel welcome and included.
+
+On a similar note, understanding accessibility for your conference, pre-conference, and after party can ensure that nobody has to be turned away due to the venue not being fully accessible.
 
 ## Multi-tracks
 
