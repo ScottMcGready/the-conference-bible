@@ -57,6 +57,10 @@ Having a shared document repository or password manager can help ensure that the
 
 The show must go on.
 
+## Call for papers (CFP)
+
+TBC
+
 ## Code of conduct
 
 Having a code of conduct for your conference allows speakers, sponsors, attendees, and volunteers to feel safe and welcome. You can use a well known, widely used, code of conduct such as the [Berlin code of conduct](https://berlincodeofconduct.org/) or design your own if you wish.
@@ -65,13 +69,13 @@ Having a code of conduct for your conference allows speakers, sponsors, attendee
 
 While the vast majority of conferences go ahead without a single hitch, you should be mindful of who's involved, or attending, your conference and if there may be any negativity directed towards crew, speakers, sponsors, the venue, or indeed other attendees. You should also take into consideration if sponsors are particularly controversial either in general, or region specific and having a plan to mitigate any issues that may arise.
 
-Potential controversy, or the assumption of such, can oftent be completely avoided by a having a good, coherent, [code of conduct](#code-of-conduct) in place beforehand.
+Potential controversy, or the assumption of such, can often be completely avoided by a having a good, coherent, [code of conduct](#code-of-conduct) in place beforehand.
 
 ## Comms strategy
 
-Having an effective communication strategy is important. Speakers, attendees, sponsors, and even volunteers like to be kept in the loop at every stage of the plan. 
+Having an effective communication strategy is important. Speakers, attendees, sponsors, and even volunteers like to be kept in the loop at every stage of the plan. Having regular check-ins with speakers, volunteers, and sponsors before the event helps to avoid no-shows on the day.
 
-## CTF
+## Capture the flag (CTF)
 
 TBC
 
@@ -81,7 +85,7 @@ TBC
 
 ## Keynotes
 
-Having a keynote (or multiple) planned early can help structure the overall theme of your conference and shape the talk or workshop submissions. 
+Having a keynote (or multiple) planned early can help structure the overall theme of your conference and shape, or even boost, the talk or workshop submissions. 
 
 ## Legality
 
@@ -107,7 +111,7 @@ On a similar note, understanding accessibility for your conference, pre-conferen
 
 ## Multi-tracks
 
-Many conferences now follow a "multi-track" format. TBC
+Many conferences now follow a "multi-track" format. This can allow you to accept more talks than you originally had planned for. Be aware however that complexity of running a multi-track conference increases greatly with each additional track, [workshop](#workshops), or [village](#villages). Not every conference needs multiple tracks and, while it might be disappointing to reject speakers, sometimes the simplicity of having a single track is appealing.
 
 ## Publicity
 
@@ -152,6 +156,8 @@ TBC
 Giving speakers at least a month (ideally more) notice that they've been selected, rejected, or are in "reserve" allows you to solidify your schedule and publicise who's speaking at your event. It allows attendees, and speakers themselves, to decide if they want to attend your conference. It's rare that a speaker submits a talk proposal and backs out, but it does happen. Don't assume your speakers are local – some may have to travel quite far to speak at your conference so giving them as much time as you possibly can to organise transport, book accommodation, and perhaps even annual leave is a very good idea. Similarly, with volunteers – letting them know they're expected to help on the day can give them time to ask questions or even back out themselves.
 
 Having clear defined schedules of when certain parts need to be solidified (such as venue, sponsorship collection, swag purchase, or speaker comms) can reduce the stress levels of the entire conference.
+
+## Villages
 
 ## Volunteers
 
