@@ -10,7 +10,7 @@ Feedback can be collected via any online form method although care should be tak
 
 ## Lessons learned
 
-Schedule a call between organisers and volunteers to discuss everything that went well, and parts that could do with improvement in future. Even if you have no intention of ever running the conference (or any conference) ever again, this kind of knowledge can be vital for this guide, and other conferences that may encounter similar situations.
+Schedule a call between organisers and volunteers to discuss everything that went well, and parts that could do with improvement in future. Even if you have no intention of running the conference (or any conference) ever again, this kind of knowledge can be vital for this guide, and other conferences that may encounter similar situations.
 
 ## Money
 
@@ -33,6 +33,10 @@ Having a clear timeline of release should be (regularly) communicated to everyon
 ### Subtitling
 
 Adding subtitles, while a lengthy process, can add more accessibility to the recordings and open it up to a wider audience.
+
+## Thanks
+
+While sponsors commonly get votes of thanks as part of their sponsorship package, thanking all volunteers and speakers for their contributions is very welcome, especially if you've had some impromptu speakers or volunteers help out on the day.
 
 ## Transparency report
 

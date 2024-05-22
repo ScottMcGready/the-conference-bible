@@ -43,7 +43,9 @@ While branding may be considered a "nice to have" element of the conference, it 
 
 Social media promo images, [speaker cards](#speaker-cards), schedule books, and even slide templates (for opening & closing remarks) can make such a difference to the overall feel of the conference if planned for in advance. PSD and AI templates are freely available online for various social networks to ensure sizing is correct for each platform.
 
-Consider creating header banner images that organisers, volunteers, speakers, and attendees can add to their social media profile to increase publicity around your conference.
+Creating header banner images that organisers, volunteers, speakers, and attendees can add to their social media profile can increase publicity around your conference. 
+
+Deciding upfront what hashtags to use on social media can avoid unfortunate incidents (see #susanalbumparty), or dilution of PR on social media between things like #myCon24, #myCon2024, #myconference2024 etc.
 
 Using templates provided by online tools, such as [Canva](https://canva.com), can help make this process much easier.
 
@@ -149,13 +151,17 @@ While the vast majority of conferences go ahead without a single hitch, you shou
 
 Potential controversy, or the assumption of such, can often be completely avoided by a having a good, coherent, [code of conduct](#code-of-conduct) in place beforehand.
 
+> Whoever said "there's no such thing as bad publicity" was full of shit. Bad PR might not hurt your conference (it may even positively impact it) but it _can_ take a toll on organisers, speakers, volunteers, and even attendees. It can be tempting to be edgy and controversial as a conference but one small mistake may taint the memory of the entire conference.
+
 ## Comms strategy
 
 Having an effective communication strategy is important. Speakers, attendees, sponsors, and even volunteers like to be kept in the loop at every stage of the plan. Having regular check-ins with speakers, volunteers, and sponsors before the event helps to avoid no-shows on the day.
 
 ## Capture the flag (CTF)
 
-TBC
+Most infosec conferences run a Capture The Flag (CTF) style event along side their main event.
+
+Physical CTFs (such as scavenger hunts) that require people to run around the venue can bring a level of disruption you may not be prepared for.
 
 ## Food
 
@@ -214,6 +220,10 @@ If you are considering welcoming remote speakers to "dial in" to the conference 
 ## Scheduling
 
 Plan buffer time between talks to allow for movement between tracks. Don't stack a slew of talks together, especially longer ones – we are all human and will end up fidgeting and dropping out of talks to break up sitting still for so long. Putting 3 x hour long talks together could have some tactical seating of people skipping the middle, or last talk, in a set to preserve their attention span for later in the day.
+
+## Speaker mentorship
+
+If you are running a first time speaker track, or indeed a first time speaker conference, it may be worth approaching mentors that can help guide the speakers, answer questions, and finesse their talks. Ideally the mentors should be people that have spoken before and understand how to structure a talk.
 
 ## Sponsors
 
