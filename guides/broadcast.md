@@ -6,7 +6,7 @@
 
 It is recommended to have the main Zoom meeting room as a "**green room**" where speakers, and volunteers can join without impacting the live broadcast. Setting the **broadcast room** up as a breakout room. Volunteers should be in the main **green room** welcoming speakers who have just joined, testing their slides/audio before broadcast, calming any nerves, and communicating with the hosts in the **broadcast room**.
 
-[Broadcast setup](/media/broadcast-setup.png)
+![Broadcast setup](/media/broadcast-setup.png)
 
 **Note:** There are a few options that need to be checked in order for speakers to be able to present without issue inside a breakout room.
 
