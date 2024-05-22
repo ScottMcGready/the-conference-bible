@@ -34,8 +34,17 @@ Documentation is split into the following sections:
 	* [Running a track](/guides/track.md)
 	* [Volunteers](/guides/volunteers.md)
 * [Post conference](post_conference.md)
-* [Common mistakes, general knowledge, and tips](tips_and_tricks.md)
+* [Cheat sheet](cheat_sheet.md)
 
+## Quick tips
+
+- Check that anything that requires batteries or charging (such as clickers, mic packs, laptops) are fully charged the day before.
+- Delegate. All the volunteers are there to help, lean on them as it can't be done alone.
+- Ensure all rooms have water for the speakers and volunteers.
+- Have backup speakers, panels, and backup volunteers prepped and ready to go.
+- Make sure to fulfil any sponsorship promises, such as "shout outs" or social media posts.
+- Make sure you have every form of AV connector available and, if all else fails, arm your volunteers with USB sticks to be able to transfer slides from laptop to a known good laptop.
+- Test av equipment (such as microphones, projectors, cables) before the conference. Test them again the day before
 
 ## Contributing
 
