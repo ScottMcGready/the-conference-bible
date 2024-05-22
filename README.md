@@ -1,7 +1,7 @@
 # The conference bible
 
-**Please note:**
-*This document is still a work in progress. Feel free to contribute.*
+> **Please note:**
+> *This document is still a work in progress. Feel free to contribute.*
 
 This collection of documents is meant to serve as a guide for anyone wanting to run their own conference. It's not intended as a defacto standard – many conferences benefit from being delightfully weird and different, breaking the mould on traditional setups.
 
@@ -37,8 +37,11 @@ Documentation is split into the following sections:
 
 ## Contributing
 
-Contributing to this document is very welcome and encouraged. To make edits, [fork](https://github.com/ScottMcGready/the-conference-bible/fork) this repository, make your changes, and submit a Pull Request for review.
+Contributing to this document is very welcome and encouraged. To make edits, [fork this repository](https://github.com/ScottMcGready/the-conference-bible/fork), make your changes, and submit a Pull Request for review.
 
 ## As used by
 
-If you've found the guide useful, or have used it (or any advice I or the other contributors have given in the past) to help run your conference, please reach out and we'll happily add your conference here.
+If you've found the guide useful, or have used it (or any advice I or the other contributors have given in the past) to help run your conference, please reach out and we'll happily add your conference or meet-up here.
+
+- [Hackademia](https://hackademia.ac/)
+- [Hack Thursday](https://hackthurs.day)

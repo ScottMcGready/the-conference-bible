@@ -85,6 +85,11 @@ BeerCon3 intro video
 
 [![BeerCon3 Intro](https://img.youtube.com/vi/O412m_fxy2k/0.jpg)](https://www.youtube.com/watch?v=O412m_fxy2k)
 
+## Broadcast
+
+Broadcasting your conference online can make your event accessible to attendees that can't physically make your conference. A stable internet connection and a dedicated broadcast machine, with sufficient performance, is required to make this as solid as possible.
+
+It's encouraged to read the full [broadcasting guide](/guides/broadcast.md) and tailor it to your conference (whether in-person, virtual, or hybrid).
 
 ## Budgeting
 
@@ -154,11 +159,13 @@ TBC
 
 ## Green room
 
-TBC
+Having a dedicated room on site where speakers can dump their bags, rehearse their talk, and chat with volunteers is recommended. Supplying the green room with water, caffiene, and biscuits. Speakers can get incredibly nervous and forget to eat or drink before their slot. Ensuring they have had some coffee, a biscuit, or even a glass of water before taking to the stage to present can avoid any fainting episodes.
+
+Virtual only conferences benefit from the simplicity of creating a green room/private area for speakers to interact with organisers, volunteers, and other speakers. Although simple, it's recommended not to forget this step as speakers may have technical questions they'd rather not ask in front of attendees.
 
 ## Keynotes
 
-Having a keynote (or multiple) planned early can help structure the overall theme of your conference and shape, or even boost, the talk or workshop submissions. 
+Having a keynote (or multiple) planned early can help structure the overall theme of your conference and shape, or even boost, the talk or workshop submissions.
 
 ## Legality
 
