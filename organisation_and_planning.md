@@ -47,6 +47,10 @@ Consider creating header banner images that organisers, volunteers, speakers, an
 
 Using templates provided by online tools, such as [Canva](https://canva.com), can help make this process much easier.
 
+### OBS overlays
+
+TBC
+
 ### Speaker cards
 
 Speaker cards can drive interest in the event as they normally are shared by the speaker, and sometimes the company they work for, on social media. Taking time to design a speaker card that fits with the conference theme can be very worthwhile and make your event stand out.
@@ -202,6 +206,10 @@ TBC
 Some speakers don't want to be recorded, and that's absolutely fine. You do, however, owe it to those that do want it recorded to provide them with an artefact worthy of going on a CV. Work with the AV team to ensure your vision of the end product matches what they produce.
 
 Things can fail, and this should be planned for. Have a backup plan (such as ensuring audio and video of speakers is always recorded but slides can be ditched) for eventualities whereby technology fals on the day. Remember - you can always ask a speaker to send their slides later and splice that into the recording, you can't ask them to regurgitate a funny anecdote based off of a situation that happened on the day with the same humour and charisma that was shown on stage.
+
+## Remote speakers
+
+If you are considering welcoming remote speakers to "dial in" to the conference and present remotely, contingencies should be in place for situations such as internet connectivity issues and timezones should be taken into account especially when dealing with speakers from a different timezone to the conference itself. 
 
 ## Scheduling
 

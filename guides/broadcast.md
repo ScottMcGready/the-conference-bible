@@ -44,4 +44,10 @@ Breakout rooms, after being created, needed to be “opened” in order to be ac
 
 It's recommended to have a dedicated machine that's sole purpose is to broadcast the contents of the broadcast room. This machine requires broadcast software (such as OBS), a stable internet connection, and will be required to join the broadcast meeting room as an "observer".
 
-Some settings within Zoom need to be adjusted in order for this hidden participant to go unnoticed.
+Some settings within Zoom need to be adjusted in order for this hidden participant to not be broadcast instead of the speaker.
+
+If you are using OBS Layouts, care will need to be taken so that the broadcast output doesn't look jank when speakers switch between speaking and presenting.
+
+### Enable video panel
+
+Remote speakers should, if they want to see the audience/hosts, enable "video panel". This allows them to see the host and/or the audience in either the breakout room, or live.
