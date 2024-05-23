@@ -161,6 +161,10 @@ Potential controversy, or the assumption of such, can often be completely avoide
 
 Having an effective communication strategy is important. Speakers, attendees, sponsors, and even volunteers like to be kept in the loop at every stage of the plan. Having regular check-ins with speakers, volunteers, and sponsors before the event helps to avoid no-shows on the day.
 
+Having a platform, such as discord or slack, to communicate with everyone before, during, and after the conference can be very beneficial for nurturing discussions, planning future conferences, and inspire a bit of community spirit. Check the [community section](community.md) for more indepth information.
+
+During the conference period, it's worth setting up either a private channel in something like Discord, or using a messaging tool like Whatsapp, Signal, etc, to communicate with volunteers quickly on the day.
+
 ## Capture the flag (CTF)
 
 Most infosec conferences run a Capture The Flag (CTF) style event along side their main event.
@@ -251,9 +255,13 @@ Delegate, delegate, delegate.
 
 ## Ticketing
 
-TBC
+While ticketing your event isn't a necessity, it can help you and your team understand how many people are likely to show up on the day. If you are running an in-person event, the venue may have a maximum occupancy that you can't exceed. Also, having the ticket statistics of previous events helps plan for and market any future events.
 
-- "Pay it forward" style tickets 
+If your event is running as a purely free (or a pay what you want) event, be aware that these types of conferences tend to have a higher no-show rate than paid-for ticketed events.
+
+If you're charging for tickets be aware of any fees ticketing platforms (Eventbrite, tito, etc) charge, and factor that into your [budgeting](#budgeting). A small number of conferences offer "pay it forward" community ticket types - this allows people with slightly more budget sponsor a free ticket for a student, or similar.
+
+Speakers and volunteers should always be given a free ticket to the event. Sponsors/vendors exhibiting on the day should be granted free entry and are sometimes offered a small batch of additional tickets as part of their sponsorship offering. This is not mandatory though.
 
 ## Timescales
 
