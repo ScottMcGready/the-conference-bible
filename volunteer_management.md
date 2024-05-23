@@ -19,3 +19,12 @@ MCs are the face of your conference when you're not around. They will introduce 
 ### Runners
 
 Something always happens, use the runners to go and get the extra AAA batteries for the microphones, or to simply ensure staff get to eat during the day, it's easy to get caught up.
+
+
+## Volunteer recognition
+
+Volunteers donate their time to help making your conference a success but many of them don't get the same level of credit an organiser does. It's always nice to recognise a volunteer teams' contributions either via social posts, shoutouts, similar.
+
+Setting your conference entity up as a Linked In company page and encouraging volunteers to add it under Volunteering experience can give volunteers a feeling of community, and a positive impact to your conference entity.
+
+![Volunteer Linked In](/assets/volunteer-experience.png)
