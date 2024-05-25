@@ -1,11 +1,12 @@
 # The conference bible
 
 > **Please note:**
-> *This document is still a work in progress. Feel free to contribute.*
+> *This document is still a work in progress. Feel free to [contribute](#contributing), or [suggest changes using the issue tracker](https://github.com/ScottMcGready/the-conference-bible/issues).*
 
-This collection of documents is meant to serve as a guide for anyone wanting to run their own conference. It's not intended as a defacto standard – many conferences benefit from being delightfully weird and different, breaking the mould on traditional setups.
 
-Although this document is heavily focused towards cyber security conferences, many of the concepts can be applied to non-cyber security conferences and smaller meet-ups.
+This collection of documents is meant to serve as a guide for anyone wanting to run their own conference. Although these documents are heavily focused towards cyber security conferences, many of the concepts can be applied to non-cyber security conferences and smaller meet-ups. It's not intended as a defacto standard – many conferences benefit from being delightfully weird and different, breaking the mould on traditional setups. This collection of documents was written to hopefully make the process of organising and running a conference easier for everyone, but that doesn't mean you have to follow all of the advice to the letter otherwise the conference will fail. 
+
+It's a bible, not a gospel.
 
 ## Why run a conference?
 ![y tho](https://i.kym-cdn.com/entries/icons/original/000/022/978/y_tho_meme.jpg)
@@ -20,11 +21,11 @@ As an organiser you should ask yourself if you want to *attend* a conference or 
 
 Documentation is split into the following sections:
 
-* [Types of conference](types_of_conference.md)
 * [Organisation and planning](organisation_and_planning.md)
+* [Types of conference](types_of_conference.md)
+* [Community](community.md)
 * [Tracks, workshops, and villages](tracks_workshops_villages.md)
 * [Volunteer management](volunteer_management.md)
-* [Community](community.md)
 * [Day Guides](/guides/guides_overview.md)
 	* [AV crew](/guides/av_crew.md)
 	* [Broadcast](/guides/broadcast.md)
@@ -53,8 +54,8 @@ Contributing to this document is very welcome and encouraged. To make edits, [fo
 
 ## As used by
 
-If you've found the guide useful, or have used it (or any advice I or the other contributors have given in the past) to help run your conference, please reach out and we'll happily add your conference or meet-up here.
-
 - [ENUSEC's Le Tour Du Hack](https://enusec.org/)
 - [Hackademia](https://hackademia.ac/)
 - [Hack Thursday](https://hackthurs.day)
+
+If you've found the guide useful, or have used it (or any advice I or the other contributors have given in the past) to help run your conference, please reach out and we'll happily add your conference or meet-up here.
