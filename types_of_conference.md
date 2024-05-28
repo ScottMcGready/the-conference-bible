@@ -1,6 +1,6 @@
 # Types of conference
 
-Considering which type of conference you want to run and what format early helps planning immensely. While it's not impossible to run a free for all style conference, both in terms of [speaker types](#speaker-cohort) *and* [format](#format), it can exponentially increase the difficulty when combining multiple in order to run it efficiently.
+Considering which [type of conference](#speaker-cohort) you want to run and what [format](#format) early helps planning immensely. While it's not impossible to run a free for all style conference, both in terms of [speaker types](#speaker-cohort) *and* [format](#format), it can exponentially increase the difficulty when combining multiple in order to run it efficiently.
 
 ## Format
 
@@ -36,7 +36,7 @@ The following is a list of tools people have used successfully for various virua
 - Gather
 - Microsoft Teams
 - OBS
-- Restream
+- Restream.io
 - Slack
 - Streamlabs OBS
 - Twitch.tv
@@ -53,12 +53,14 @@ It's recommended to have a dedicated team, both on site and off site on the day 
 
 TBC
 
+Both [new speakers](#newfirst-time-speakers), and [seasoned speakers](#seasoned-speakers), often jump at the offer of a [mentor](#mentorship) to help them finesse their talk, tweak slides, and give guidance on what to expect when speaking.
+
 ### New/first time speakers
 
 TBC
 
-- Mentorship
-
 ### Seasoned speakers
 
 TBC
+
+### Mentorship

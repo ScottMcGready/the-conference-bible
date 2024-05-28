@@ -143,7 +143,11 @@ Some people may be nervous about applying and feel the need for [mentorship](#sp
 
 Sifting through CFPs can feel like a daunting task, especially if you've received a large number. It's highly recommended to have a cohort of people to review talks to avoid any bias and have a scoring system in place to rank various talks based on general fit, theme, topic, etc.
 
-Rejecting speakers can be one of the hardest parts of the entire CFP process. Giving speakers constructive feedback as to why they weren't successful is always recommended.
+### Accepting and rejecting
+
+Once you've got a good idea of who you'd like to offer a speaking (or workshop) slot to, getting the acceptance emails out early with a deadline is highly recommended. This allows you to ensure the schedule is as solid as it can be, as early as possible.
+
+Rejecting speakers can be one of the hardest parts of the entire CFP process but a necissary one. Giving speakers constructive feedback as to why they weren't successful is always recommended.
 
 ## Code of conduct
 
