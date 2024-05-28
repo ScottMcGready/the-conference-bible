@@ -165,7 +165,7 @@ Potential controversy, or the assumption of such, can often be completely avoide
 
 Having an effective communication strategy is important. Speakers, attendees, sponsors, and even volunteers like to be kept in the loop at every stage of the plan. Having regular check-ins with speakers, volunteers, and sponsors before the event helps to avoid no-shows on the day.
 
-Having a platform, such as discord or slack, to communicate with everyone before, during, and after the conference can be very beneficial for nurturing discussions, planning future conferences, and inspire a bit of community spirit. Check the [community section](community.md) for more indepth information.
+Having a platform, such as discord or slack, to communicate with everyone before, during, and after the conference can be very beneficial for nurturing discussions, planning future conferences, and inspire a bit of community spirit. Check the [virtual community section](virtual_community.md) for more indepth information.
 
 During the conference period, it's worth setting up either a private channel in something like Discord, or using a messaging tool like Whatsapp, Signal, etc, to communicate with volunteers quickly on the day.
 
