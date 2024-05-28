@@ -45,7 +45,7 @@ The following is a list of tools people have used successfully for various virua
 
 ### Hybrid
 
-> **Note:** References to "hybrid conferences" in this section refers to *outbound* broadcast, allowing attendees to watch the talks remotely, not speakers remotely presenting at your conference. For more information on remote speakers, see the [remote speaker](#remote) section.
+> **Note:** References to "hybrid conferences" in this section refers to *outbound* broadcast, allowing attendees to watch the talks remotely, not speakers remotely presenting at your conference. For more information on remote speakers, see the [remote speaker](types_of_speaker.md#remote) section.
 
 Hybrid events are marketed as bringing the best of both in-person and virtual conferences to the public but can be an absolute nightmare to manage from an organisational point of view.
 
