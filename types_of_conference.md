@@ -45,22 +45,8 @@ The following is a list of tools people have used successfully for various virua
 
 ### Hybrid
 
-Hybrid events are marketed as bringing the best of both in-person and virtual conferences to the public but can be an absolute nightmare to manage from an organisational point of view. 
+> **Note:** References to "hybrid conferences" in this section refers to *outbound* broadcast, allowing attendees to watch the talks remotely, not speakers remotely presenting at your conference. For more information on remote speakers, see the [remote speaker](#remote) section.
+
+Hybrid events are marketed as bringing the best of both in-person and virtual conferences to the public but can be an absolute nightmare to manage from an organisational point of view.
 
 It's recommended to have a dedicated team, both on site and off site on the day to triage issues, fix problems, and field questions from members of the in-person or remote audience.
-
-## Speaker Cohort
-
-TBC
-
-Both [new speakers](#newfirst-time-speakers), and [seasoned speakers](#seasoned-speakers), often jump at the offer of a [mentor](#mentorship) to help them finesse their talk, tweak slides, and give guidance on what to expect when speaking.
-
-### New/first time speakers
-
-TBC
-
-### Seasoned speakers
-
-TBC
-
-### Mentorship
