@@ -18,11 +18,11 @@ Any money left over could potentially be used for planning the next iteration of
 
 ## Recordings
 
-While it may be tempting to deal with the recordings at a later date, it's highly recommended to get them edited. Recordings of talks fall into an interesting category whereby it's partly (or fully) owned by yourself, as a representitive of the conference you're running, but also by the speaker themselves. Speakers are keen to see their own recordings released for many different reasons, and it's worth noting this should be treated with the umpost respect.
+While it may be tempting to deal with the recordings at a later date, it's highly recommended to get them edited and uploaded as soon as possible. Speakers are keen to see their own recordings released for many different reasons.
 
-A process should be in place to quickly trim, edit, and upload videos as soon as possible during or after the speaker has finished their session. Not every session needs to go out immediately after the talk is complete but, from experience, the longer its' left, the more likely the recording is forgotten about or lost entirely. 
+A process should be in place to quickly trim, edit, and upload videos as soon as possible during or after the speaker has finished their session. Not every session needs to go out immediately after the talk is complete but, from experience, the longer it is left, the more likely the recording is forgotten about or lost entirely.
 
-A quick process is indeed recommended but speakers may choose to rescind their initial approval of a recording being publicly available. It's recommended to upload videos in a private format first, with a 7 day window in which speakers can choose to opt-out of a public video being released. Alternatively, informing speakers long beforehand (such as during the acceptance phase) that talks will be published online 24 hours after their talk is finished alleviates doubt.
+A quick process is indeed recommended, but speakers may choose to rescind their initial approval of a recording being publicly available. It's recommended to upload videos in a private format first, with a 7 day window in which speakers can choose to opt-out of a public video being released. Alternatively, informing speakers long beforehand (such as during the acceptance phase) that talks will be published online 24 hours after their talk is finished alleviates any doubt.
 
 Stingers (intro/outtro/mid break videos) should be prepped in advance in as many different formats as needed. Most modern video hosting platforms have inbuilt video editing capabilities to allow owners to upload and edit videos quickly.
 
@@ -32,7 +32,7 @@ Having a clear timeline of release should be (regularly) communicated to everyon
 
 ### Subtitling
 
-Adding subtitles, while a lengthy process, can add more accessibility to the recordings and open it up to a wider audience.
+Adding subtitles, while a lengthy process, can add more accessibility to the recordings and open it up to a wider audience. While many video upload sites offer automatic captions for videos, care should be taken as dialects and accents can massively alter subtitles.
 
 ## Thanks
 
