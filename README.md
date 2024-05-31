@@ -31,6 +31,7 @@ Documentation is split into the following sections:
 * [Remote broadcasting](broadcast.md)
 * [Volunteer management](volunteer_management.md)
 * [Day Guides](/guides/guides_overview.md)
+	* [Attendees](/guides/attendees.md)
 	* [AV crew](/guides/av_crew.md)
 	* [Attendees](/guides/attendees.md)
 	* [Organisers](/guides/organisers.md)
