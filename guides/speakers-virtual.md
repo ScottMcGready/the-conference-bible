@@ -1,4 +1,3 @@
-
 # Speakers (virtual)
 
 > _**Note**: The following guide has a number of assumptions, such as using Zoom, having a virtual community (Slack) with automations and bots, and using Twitch as a broadcast outlet._
