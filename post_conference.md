@@ -14,7 +14,7 @@ Schedule a call between organisers and volunteers to discuss everything that wen
 
 ## Money
 
-Any money left over could potentially be used for planning the next iteration of your conference. There is a potential that sponsors still owe you money after the conference concludes. It's vital to continue to chase this money until all out-of-pocket expenses have been recouped.
+Any money left over could potentially be used for planning the next iteration of your conference. There is a potential that sponsors may still owe you money after the conference concludes. It's vital to continue to chase this money until all out-of-pocket expenses have been recouped.
 
 ## Recordings
 
@@ -41,3 +41,5 @@ While sponsors commonly get votes of thanks as part of their sponsorship package
 ## Transparency report
 
 Consider writing a transparency report post-conference that outlines any statistics about your conference, where sponsorship money was spent, and any issues encountered. While it may feel a bit invasive, this can positively impact future sponsorship opportunities and pre-emptively stop any hard questions, or incorrect assumptions by anyone external.
+
+An example report, written after The Beer Farmers' [BeerCon2](https://www.youtube.com/watch?v=UoCsSa2mjcU&list=PLD6Eke-wt28k91eUbYDLsyE6UTRWQgXSJ) is available [here](https://www.dropbox.com/s/9br4fq3fhpku0jv/BeerCon2.pdf?e=1&raw=1).
