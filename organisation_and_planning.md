@@ -59,6 +59,9 @@ Deciding upfront what hashtags to use on social media can avoid unfortunate inci
 
 Using templates provided by online tools, such as [Canva](https://canva.com), can help make this process much easier.
 
+![BSides Leeds conference programme](/assets/branding-programme.jpeg)
+
+
 ### OBS overlays
 
 OBS ([Open Broadcaster Software](https://obsproject.com/)) is a popular tool of choice for streaming and recording events. Due to its popularity, it's often the tool of choice at many conferences. OBS has a high level of customisation for your stream or recording, meaning that you can take many feeds from different sources (such as webcams, presentations, microphones, and more), and combine them together into one single output.
