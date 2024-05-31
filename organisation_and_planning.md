@@ -107,7 +107,7 @@ BeerCon3 intro video
 
 Broadcasting your conference online can make your event accessible to attendees that can't physically make your conference. A stable internet connection and a dedicated broadcast machine, with sufficient performance, is required to make this as solid as possible.
 
-It's encouraged to read the full [broadcasting guide](/guides/broadcast.md) and tailor it to your conference (whether in-person, virtual, or hybrid).
+It's encouraged to read the full [broadcasting guide](broadcast.md) and tailor it to your conference (whether in-person, virtual, or hybrid).
 
 ## Budgeting
 
