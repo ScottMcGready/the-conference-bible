@@ -189,13 +189,17 @@ Having a dedicated room on site where speakers can dump their bags, rehearse the
 
 Virtual only conferences benefit from the simplicity of creating a green room/private area for speakers to interact with organisers, volunteers, and other speakers. Although simple, it's recommended not to forget this step as speakers may have technical questions they'd rather not ask in front of attendees.
 
+## Health and safety
+
+If you plan to run an in-person event, it may be a requirement of the venue to supply your own first aiders on-site. Similarly, venues may require conference organisers to have suitable [liability insurance](##legality) for the event.
+
 ## Keynotes
 
 Having a keynote (or multiple) planned early can help structure the overall theme of your conference and shape, or even boost, the talk or workshop submissions.
 
 ## Legality
 
-It's worth considering getting your conference set up as a legal entity. This can protect you as an organiser from liability, should it arise, but also give sponsors a legal entity to pay sponsorship fees to.
+It's worth considering getting your conference set up as a legal entity (Ltd company, CIC, or similar). This can protect you as an organiser from liability, should it arise, but also give sponsors a legal entity to pay sponsorship fees to.
 
 It should be noted that this document does not constitute legal advice, always consult with a legal professional and/or accountant before undertaking any legal partnership or liability.
 
