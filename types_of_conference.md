@@ -1,14 +1,14 @@
 # Types of conference
 
-Considering which [type of conference](#speaker-cohort) you want to run and what [format](#format) early helps planning immensely. While it's not impossible to run a free for all style conference, both in terms of [speaker types](#speaker-cohort) *and* [format](#format), it can exponentially increase the difficulty when combining multiple in order to run it efficiently.
+Considering which type of conference you want to run and what [format](#format) early helps planning immensely. While it's not impossible to run a free for all YOLO style conference, both in terms of [speaker types](types_of_speaker.md) *and* [format](#format), it can increase the difficulty when combining multiple in order to run it efficiently.
 
 ## Format
 
-There are three types of format your conference can benefit from - [in-person](#in-person), [virtual](#virtual), and [hybrid](#hybrid). Each have their own benefits, and challenges, associated and this should play into any consideration when planning the format of your conference.
+There are three main types of format your conference can benefit from - [in-person](#in-person), [virtual](#virtual), and [hybrid](#hybrid). Each have their own benefits, and challenges, associated and this should play into any consideration when planning the format of your conference.
 
 ### In-person
 
-Pre, and post, pandemic this is the most common form of event you may encounter. Given that it's a purely physical event, it requires a suitable venue, AV equipment, and potentially catering, or security on site.
+Pre, and post, pandemic this is the most common form of event you may encounter. Given that it's a purely physical event, it requires a suitable [venue](venue.md), AV equipment, health and safety staff, and potentially catering, or security on site.
 
 Venues that tick all the boxes can be difficult to obtain, and some may even object to the type of conference run at their location. Care should be taken when selecting sponsors, exhibitors, speakers, and even attendees in mind of the venue's own code of conduct, ethics, rules, or morals. Having an open and candid relationship with the venue allows for any issues and concerns to be addressed ahead of the event.
 
@@ -45,8 +45,8 @@ The following is a list of tools people have used successfully for various virua
 
 ### Hybrid
 
-> **Note:** References to "hybrid conferences" in this section refers to *outbound* broadcast, allowing attendees to watch the talks remotely, not speakers remotely presenting at your conference. For more information on remote speakers, see the [remote speaker](types_of_speaker.md#remote) section.
+> **Note:** References to "hybrid conferences" in this section refers to *outbound* broadcast – allowing attendees to watch the talks remotely – not speakers remotely presenting at your conference. For more information on remote speakers, see the [remote speaker](types_of_speaker.md#remote) section.
 
-Hybrid events are marketed as bringing the best of both in-person and virtual conferences to the public but can be an absolute nightmare to manage from an organisational point of view.
+Hybrid events are marketed as bringing the best of both in-person and virtual conferences to the public but can be an absolute nightmare to manage from an organisational point of view without an appropriate number of volunteers.
 
-It's recommended to have a dedicated team, both on site and off site on the day to triage issues, fix problems, and field questions from members of the in-person or remote audience.
+It's recommended to have a dedicated "hybrid" team, both on-site and off site to triage issues, fix problems, and field questions from members of the in-person, or remote, audience.
