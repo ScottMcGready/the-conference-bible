@@ -12,6 +12,8 @@ Additionally, it's a very nice touch when a conference introduces a speaker and 
 
 Giving speakers a quick heads up of what to expect during their talk – such as what a 15/10/5 minute warning will look like from a volunteer, how the MC will introduce them, and that Q&A will be managed by volunteers if they prefer.
 
+Some speakers may prefer not to have a 15/10/5 minute warning, not to be recorded, or not to be asked questions at the end. It's important the track crew are aware of speakers' requests and can try to accomodate them as best as possible.
+
 ## Timings
 
 Speakers need a few minutes to get set up before speaking. Ideally, speakers should be in the room (or in a remote green room) at least 15 to 20 minutes before their slot. This allows them to flag down the conference staff and ask any questions they may have, calm nerves, and reiterate any requirements (such as not mentioning the company they work for, pronounciation of names, etc).
@@ -33,17 +35,21 @@ This is the person that is representing your entire conference. It's often the p
 You should choose someone to be an MC who's confident at public speaking, charismatic, able to keep the track to time, but also canny enough to allow certain talks to over-run (or indeed under-run) if the situation allows.
 
 TBC stick to schedule
+TBC Enforcing COC
+TBC the show must go on
 
 ### The AV role
 
-TBC
+An often overlooked role, the AV technician's job is to capture the speaker and slides. If your conference benefits from Cooper's support (either in person or the rigs) they'll likely all have a dedicated chat group they can field questions and ensure an operator is in the room for any potential issues, or strange stuff that may be going on. The AV technicians may rely on [runners](#the-runner-role) to fetch other AV technicians, or specific items for AV purposes.
 
 ### The runner role
 
-TBC
+A track "runner" is a volunteer that can be fixing problems behind the scenes allowing the MC and AV volunteers to keep the show running. Runners can get speakers ready for their slot, explaining how things will function (such as AV equipment or timings), letting the MC know the speaker has arrived, and running out to fetch other volunteers if required by the MC or AV volunteer, speaker, or indeed audience members.
+
+A runners only responsibility should be supporting the volunteers and speakers on the track they're in and while it may not seem like a glamourous role, it is no less important than other roles.
 
 ## Questions
 
-Some talks will 
+TBC Some talks will 
 
-Keeping any Q&A as fair as possible (as in - not letting one person ask 5 questions and use up the full time) is recommended however it's imperative to use your judgement. Sometimes talks reach a very well rounded conclusion and there's no further discussion points. In these situations 
+TBC eeping any Q&A as fair as possible (as in - not letting one person ask 5 questions and use up the full time) is recommended however it's imperative to use your judgement. Sometimes talks reach a very well rounded conclusion and there's no further discussion points. In these situations 
