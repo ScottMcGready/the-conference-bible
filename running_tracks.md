@@ -30,13 +30,11 @@ Each physical, and virtual, track you run should have a minimum of 3 volunteers,
 
 ### The MC role
 
-This is the person that is representing your entire conference. It's often the person people will remember most of the volunteers in the room. Care should be taken to select someone who has a good voice of authority, that can command a room, and can do a bit of crowd control if needed.
+This is the person that is representing your entire conference. It's often the person people will remember most of the volunteers in the room. Care should be taken to select someone who has a good voice of authority, that can command a room, and can do a bit of crowd control, if needed.
 
 You should choose someone to be an MC who's confident at public speaking, charismatic, able to keep the track to time, but also canny enough to allow certain talks to over-run (or indeed under-run) if the situation allows.
 
-TBC stick to schedule
-TBC Enforcing COC
-TBC the show must go on
+MCs should, ideally, introduce speakers (unless a speaker asks not to be introduced), keep the interest of the crowd in situations where technical difficulties are being addressed, keeping Q&A fair, and enforcing the code of conduct.
 
 ### The AV role
 
@@ -50,6 +48,8 @@ A runners only responsibility should be supporting the volunteers and speakers o
 
 ## Questions
 
-TBC Some talks will 
+Some talks will spark a large number of questions, and some may spark silence. It's important to give audience members (and, by extension, the speaker) the opportunity to ask questions, give feedback, or address specific points in the speakers' session.
 
-TBC eeping any Q&A as fair as possible (as in - not letting one person ask 5 questions and use up the full time) is recommended however it's imperative to use your judgement. Sometimes talks reach a very well rounded conclusion and there's no further discussion points. In these situations 
+Keeping Q&A time as fair as possible (i.e. not letting one person labour a point for 5-10 minutes when others have questions) is important however, as noted previously, sometimes talks are presented with a well rounded conclusion they don't invite questions. In these situations, it can be a very nice touch for the MC to give feedback or ask a light-touch question to get the ball rolling on questions from the audience.
+
+Occasionally there are talks that invite many, many questions from the audience. In these cases, it's best to use your own judgement on whether or not to let the track overrun slightly to encourage debate.
