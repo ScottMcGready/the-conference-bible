@@ -2,6 +2,8 @@
 
 One of the harder parts of conference planning is settling on a good venue. 
 
+## Accessibility
+
 ## Equipment
 
 
