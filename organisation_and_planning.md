@@ -17,17 +17,17 @@ When choosing your date, remember to check holiday schedules such as half terms 
 
 ## Advisors 
 
-Having a friendly face that's done it all before can massively reduce the pressure of running an event. Their guidance and experience can help because most of the issues that crop up, they will have faced and overcome. Conference organisers are generally disposed to assisting others run an event... provided you aren't trying to run one in competition with them ;)...
+Having a friendly face that's done it all before can massively reduce the pressure of running an event. Their guidance, and experience, can help with many of the common issues that may crop up. Other conference organisers are often incredibly happy to assisting others run a successful event, provided you aren't trying to run one in competition with them ;).
 
 ## After party
 
-Many conferences now offer an official after party. Often a sponsor slot will be dedicated to purely sponsoring the after party activities, food, or bar tab.
+Many conferences now offer an official after party. Often a [sponsor](#sponsors) slot will be dedicated to purely sponsoring the after party activities, food, or bar tab.
 
 If you're offering a free bar tab, or drinks/food tokens, this needs to be managed carefully especially if the after party is hosted in an area where members of the public may roam in. Wrist bands, physical tokens, or even conference badges can be used as a validation method that the person asking for a free round of drinks was a genuine attendee.
 
 Considerations should be given towards attendees around the theme of the after party. For example: if the after party is a BBQ event, that might not cater for vegans/vegetarians. Similarly, if the after party is solely based around free alcoholic drinks, attendees may be non-drinkers.
 
-Care should be taken to avoid dilution of attendees between the conference and the after party. You can read more about dilution, and how to avoid it, on the [types of conference guide](types_of_conference.md#in-person).
+Care should be taken to avoid [dilution](types_of_conference.md#in-person) of attendees between the conference venue and the after party venue (if the two are seperate).
 
 ## AV & tech
 
@@ -41,7 +41,7 @@ When it comes to recording/streaming talks on the day, infosec conferences benef
 
 ## Backups
 
-Speakers can drop out for a variety of reasons – both in person and virtual – so planning for an eventuality where one, or more, speakers drop out is a very worthwhile endeavour. Having reserve talks (with speakers), a panel, mini-workshop, or fun item able to be dropped in to the schedule at the last minute.
+Speakers can drop out for a variety of reasons – both in person and virtual – so planning for an eventuality where one, or more, speakers drop out is a very worthwhile endeavour. Having reserve talks (with speakers), a panel, mini-workshop, or fun item that can be dropped in to the schedule at the last minute.
 
 Similar to speakers, there's a possibility an organiser or volunteer may drop out on the day. You should aim to build resilience into your conference so that, if an organiser or volunteer were to drop out, their responsibilities can either be spread among the remaining volunteers or reserve volunteers can be called upon on the day.
 
@@ -112,17 +112,17 @@ BeerCon3 intro video
 
 Broadcasting your conference online can make your event accessible to attendees that can't physically make your conference. A stable internet connection and a dedicated broadcast machine, with sufficient performance, is required to make this as solid as possible.
 
-It's encouraged to read the full [broadcasting guide](broadcast.md) and tailor it to your conference (whether in-person, virtual, or hybrid).
+It's encouraged to read the full [broadcasting guide](broadcast.md) and tailor it to your conference (whether [in-person](types_of_conference.md#in-person), [virtual](types_of_conference.md#virtual), or [hybrid](types_of_conference.md#hybrid)).
 
 ## Budgeting
 
-Understand exactly how much it'll cost to deliver a Minimum Viable Product (MVP) version of your conference and add on the additional "nice to have" bits later. Looking at other conferences' sponsor packs can be a good reference point to understand
+Understand exactly how much it'll cost to deliver a Minimum Viable Product (MVP) version of your conference and add on the additional "nice to have" bits later. Looking at other conferences' [sponsor packs](guides/sponsors.md) can be a good reference point to understand what level of funding is required.
 
 Many sponsors will require an invoice to be sent to them and will pay within their own payment terms. This can be immediate, 14/30/60/90 days after invoice submission, randomly without notice, or even after the conference has run. Planning your budgets in accordance with when money is due is very recommended and while it may be tempting to stick things on a credit card in the interim, care should be taken to ensure the sponsors will pay on the time you think. It's not uncommon for organisers to be out of pocket or have additional fees they weren't initially expecting at the end of a conference.
 
-Be aware that accepting credit card payments, or selling tickets on platforms like Eventbrite can incur fees. These fees may be a small amount of money in the grand scheme of things but if you're running
+Be aware that accepting credit card payments, or selling tickets on platforms like Eventbrite can incur fees. These fees may be a small amount of money in the grand scheme of things but not accounting for a small percentage being taken from each ticket sale can have a knock on effect on budgets.
 
-Having [money left over](post_conference.md#money) in the bank account after a conference is an ideal situation to be in – especially if there's plans to re-run the conference at a future date (or help out another conference).
+Having [money left over](post_conference.md#money) in the [bank account](#legality) after a conference is an ideal situation to be in – especially if there's plans to re-run the conference at a future date (or help out another conference).
 
 ## Call for papers (CFP)
 
@@ -140,9 +140,9 @@ In a **fully anonymised** CFP process, identifiable speaker information, review 
 
 ### Attracting submissions
 
-Arguably the most nervewracking part of putting together a conference is the submission stage of the CFP. Reach out to as many organisations and groups as you can to publicise the CFP.
+Arguably the most nervewracking part of putting together a conference is the submission stage of the CFP. Reach out to as many organisations and groups as you can to publicise the CFP. While [sponsorship](#sponsors) of a conference shouldn't necessarily guarantee a speaking slot, encouraging sponsors to ask their staff to submit to the CFP process is a worthwhile option.
 
-Some people may be nervous about applying and feel the need for [mentorship](#speaker-mentorship), regardless if they're a first time speaker or not. It's worth highlighting on the CFP if you intend to provide mentorship, should the speaker choose it.
+Some people may be nervous about applying and feel the need for [mentorship](#speaker-mentorship), regardless if they're a first time speaker or not. It's worth highlighting on the CFP if you intend to provide [mentorship](#speaker-mentorship), should the speaker choose it.
 
 ### Sift
 
@@ -160,7 +160,7 @@ Having a code of conduct for your conference allows speakers, sponsors, attendee
 
 ## Controversy
 
-While the vast majority of conferences go ahead without a single hitch, you should be mindful of who's involved, or attending, your conference and if there may be any negativity directed towards crew, speakers, sponsors, the venue, or indeed other attendees. You should also take into consideration if sponsors are particularly controversial either in general, or region specific and having a plan to mitigate any issues that may arise.
+While the vast majority of conferences go ahead without a single hitch, you should be mindful of who's involved, or attending, your conference and if there may be any negativity directed towards crew, speakers, [sponsors](#sponsors), the venue, or indeed other attendees. You should also take into consideration if sponsors are particularly controversial either in general, or region specific, and having a plan to mitigate any issues that may arise.
 
 Potential controversy, or the assumption of such, can often be completely avoided by a having a good, coherent, [code of conduct](#code-of-conduct) in place beforehand.
 
@@ -168,7 +168,7 @@ Potential controversy, or the assumption of such, can often be completely avoide
 
 ## Comms strategy
 
-Having an effective communication strategy is important. Speakers, attendees, sponsors, and even volunteers like to be kept in the loop at every stage of the plan. Having regular check-ins with speakers, volunteers, and sponsors before the event helps to avoid no-shows on the day.
+Having an effective communication strategy is important. Speakers, attendees, sponsors, and even volunteers like to be kept in the loop at every stage of the plan. Having regular check-ins with speakers, volunteers, and sponsors before the event helps to avoid no-shows on the day, and repeated questions being asked.
 
 Having a platform, such as discord or slack, to communicate with everyone before, during, and after the conference can be very beneficial for nurturing discussions, planning future conferences, and inspire a bit of community spirit. Check the [virtual community section](virtual_community.md) for more indepth information.
 
@@ -176,13 +176,15 @@ During the conference period, it's worth setting up either a private channel in 
 
 ## Capture the flag (CTF)
 
-Most infosec conferences run a Capture The Flag (CTF) style event along side their main event.
+Most infosec conferences run a Capture The Flag (CTF) style event in parallel to their main event.
 
 Physical CTFs (such as scavenger hunts) that require people to run around the venue can bring a level of disruption you, or your speakers, may not be prepared for.
 
+If you are running a parallel CTF that requires internet access of some sort, you should consider providing free conference WiFi and checking 3G/4G/5G reception around the [venue](venue.md).
+
 ## Food
 
-Providing food for everyone onsite can be challenging with different preferences (vegetarian/vegan for example), allergies, intolerances, and more. If your venue is lucky enough to be situated near food and drink offerings, it may be wiser to allow people to sort themselves out (although be mindful of [dilution](types_of_conference.md#in-person)). Be mindful of anyone potentially fasting due to Ramadan, for example. If you are having an after party it's a good idea to select a venue that also provides food to ensure everyone gets the option of eating.
+Providing food for everyone onsite can be challenging with different preferences (vegetarian/vegan for example), allergies, intolerances, and more. If your [venue](venue.md) is lucky enough to be situated near food and drink offerings, it may be wiser to allow people to sort themselves out (although be mindful of [dilution](types_of_conference.md#in-person)). Be mindful of anyone potentially fasting due to Ramadan, for example. If you are having an [after party](#after-party) it's a good idea to select a venue that also provides food to ensure everyone gets the option of eating.
 
 Many venues, such as Universities, have their own catering or some even have their own rules surrounding external caterers. It's recommended to have a chat with your venue to understand what can, and can't happen.
 
@@ -200,19 +202,21 @@ If you plan to run an in-person event, it may be a requirement of the venue to s
 
 ## Keynotes
 
-Having a keynote (or multiple) planned early can help structure the overall theme of your conference and shape, or even boost, the talk or workshop submissions.
+Having a keynote (or multiple) planned early can help structure the overall theme of your conference and shape, or even boost, the talk or workshop submissions. Keynotes should set the tone of the day and, hopefully, inspire your attendees. Keynote speakers don't need to be "huge names" but someone capable of presenting something thought provoking.
 
 ## Legality
 
 It's worth considering getting your conference set up as a legal entity (Ltd company, CIC, or similar). This can protect you as an organiser from liability, should it arise, but also give sponsors a legal entity to pay sponsorship fees to.
 
+Having a dedicated bank account keeps any funds seperate from organisers' personal accounts.
+
 It should be noted that this document does not constitute legal advice, always consult with a legal professional and/or accountant before undertaking any legal partnership or liability.
 
 ## Location
 
-During the COVID-19 pandemic, attending and organising remote conferences became the norm for many of us. Recently things have gone back to normality a bit with in-person being the preferred option however 
+During the COVID-19 pandemic, attending and organising remote conferences became the norm for many of us. Recently things have gone back to normality a bit with in-person being the preferred option however fully virtual conferences still exist and can be successful.
 
-Virtual only conferences are slightly easier logistically but can bring additional challenges an in-person only conference doesn't have such as license costs for software, streaming ability, wifi connectivity, etc. 
+Virtual only conferences are slightly easier logistically but can bring additional challenges an in-person only conference doesn't have such as license costs for software, streaming ability, wifi connectivity, etc.
 
 It's possible to do a conference as a "hybrid" event, allowing virtual attendees to stream or watch.
 
@@ -222,7 +226,7 @@ Quiet rooms, prayer rooms, green rooms, and similar might seem like a "nice to h
 
 Many events are held within modern venues where modern facilities are available for all to use, but some are held in older buildings where these facilities are not available easily. In these cases, for example a prayer room, it's worth seeking out the nearest area that can be used in order to make your speakers, sponsors, or even attendees feel welcome and included.
 
-On a similar note, understanding accessibility for your conference, pre-conference, and after party can ensure that nobody has to be turned away due to the venue not being fully accessible.
+On a similar note, understanding [accessibility](venue.md#accessibility) for your conference, pre-conference, and [after party](#after-party) can ensure that nobody has to be turned away due to the [venue](venue.md) not being fully [accessible](venue.md#accessibility).
 
 ## Publicity
 
