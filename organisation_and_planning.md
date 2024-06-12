@@ -13,6 +13,8 @@ You should have clearly defined goals that you want to achieve at the end of eac
 
 Things will change, go wrong, or not quite stick to the original plan and that's **absolutely fine**. Understanding that things might go wrong, planning for those eventualities, and having contingencies in place can massively help to keep the event running smoothly.
 
+When choosing your date, remember to check holiday schedules such as half terms / school holidays and be mindful that different districts have different half terms. You can use [infosecmap.com](https://infosecmap.com/) to check other conferences scheduled around your potential chosen date.
+
 ## Advisors 
 
 Having a friendly face that's done it all before can massively reduce the pressure of running an event. Their guidance and experience can help because most of the issues that crop up, they will have faced and overcome. Conference organisers are generally disposed to assisting others run an event... provided you aren't trying to run one in competition with them ;)...
@@ -180,7 +182,7 @@ Physical CTFs (such as scavenger hunts) that require people to run around the ve
 
 ## Food
 
-Providing food for everyone onsite can be challenging with different preferences, allergies, intolerances, and more. If your venue is lucky enough to be situated near food and drink offerings, it may be wiser to allow people to sort themselves out (although be mindful of [dilution](types_of_conference.md#in-person)).
+Providing food for everyone onsite can be challenging with different preferences (vegetarian/vegan for example), allergies, intolerances, and more. If your venue is lucky enough to be situated near food and drink offerings, it may be wiser to allow people to sort themselves out (although be mindful of [dilution](types_of_conference.md#in-person)). Be mindful of anyone potentially fasting due to Ramadan, for example. If you are having an after party it's a good idea to select a venue that also provides food to ensure everyone gets the option of eating.
 
 Many venues, such as Universities, have their own catering or some even have their own rules surrounding external caterers. It's recommended to have a chat with your venue to understand what can, and can't happen.
 
@@ -287,5 +289,7 @@ Deciding how many [tracks, workshops, and villages](tracks_workshops_villages.md
 ## Volunteers
 
 Putting a call for volunteers out early is incredibly important. Volunteers can have vastly different skillsets meaning some are far more comfortable being front of house "MC's" while others prefer some behind the scenes roles. Understanding the strengths and weaknesses of your volunteer team is vital to keep the conference running smoothly. Consider asking prospective volunteers if they volunteer at other events, or what particular skills they have so you can adjust accordingly.
+
+Having a predefined list, before the conference, of volunteer roles helps, as does having a Lead volunteer who can coordinate others. Although not always possible, organisers should try not to have an assigned role, allowing them to firefight on the day if needed.
 
 For more information, check the [volunteer management](volunteer_management.md) page.
