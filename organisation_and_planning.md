@@ -146,7 +146,7 @@ Some people may be nervous about applying and feel the need for [mentorship](#sp
 
 ### Sift
 
-Sifting through CFPs can feel like a daunting task, especially if you've received a large number. It's highly recommended to have a cohort of people to review talks to avoid any bias and have a scoring system in place to rank various talks based on general fit, theme, topic, etc.
+Sifting through CFPs can feel like a daunting task, especially if you've received a large number. It's highly recommended to have a cohort of people to review talks to avoid any bias and have a scoring system in place to rank various talks based on general fit, theme, topic, etc. This cohort doesn't even need to be just organisers, or volunteers - many conferences benefit from a vast review team adding comments and giving their thoughts and opinions.
 
 ### Accepting and rejecting
 
@@ -180,7 +180,7 @@ Most infosec conferences run a Capture The Flag (CTF) style event in parallel to
 
 Physical CTFs (such as scavenger hunts) that require people to run around the venue can bring a level of disruption you, or your speakers, may not be prepared for.
 
-If you are running a parallel CTF that requires internet access of some sort, you should consider providing free conference WiFi and checking 3G/4G/5G reception around the [venue](venue.md).
+If you are running a parallel CTF that requires internet access of some sort, you should consider providing free conference WiFi, a dedicated room for CTFers to hang out, a CTF lead at the conference on the day, and checking 3G/4G/5G reception around the [venue](venue.md).
 
 ## Food
 
@@ -192,25 +192,25 @@ Many venues, such as Universities, have their own catering or some even have the
 
 ## Green room
 
-Having a dedicated room on site where speakers can dump their bags, rehearse their talk, and chat with volunteers is recommended. Supplying the green room with water, caffiene, and biscuits. Speakers can get incredibly nervous and forget to eat or drink before their slot. Ensuring they have had some coffee, a biscuit, or even a glass of water before taking to the stage to present can avoid any fainting episodes.
+Having a dedicated room [on site](venue.md) where speakers can dump their bags, rehearse their talk, and chat with volunteers is recommended. Supplying the green room with water, caffiene, and biscuits or similar is recommended to ease any nerves of speakers – speakers can often forget to eat or drink before their slot. Ensuring they have had some coffee, a biscuit, or even a glass of water before taking to the stage to present can avoid any fainting episodes.
 
 Virtual only conferences benefit from the simplicity of creating a green room/private area for speakers to interact with organisers, volunteers, and other speakers. Although simple, it's recommended not to forget this step as speakers may have technical questions they'd rather not ask in front of attendees.
 
 ## Health and safety
 
-If you plan to run an in-person event, it may be a requirement of the venue to supply your own first aiders on-site. Similarly, venues may require conference organisers to have suitable [liability insurance](##legality) for the event.
+If you plan to run an in-person event, it may be a requirement of the venue to supply your own first aiders on-site. Similarly, venues may require conference organisers to have suitable [liability insurance](##legality), or risk assessments in place for the event – especially for some of the weirder [villages](tracks_workshops_villages.md#villages).
 
 ## Keynotes
 
-Having a keynote (or multiple) planned early can help structure the overall theme of your conference and shape, or even boost, the talk or workshop submissions. Keynotes should set the tone of the day and, hopefully, inspire your attendees. Keynote speakers don't need to be "huge names" but someone capable of presenting something thought provoking.
+Having a keynote (or multiple) planned early can help structure the overall theme of your conference and shape, or even boost, the talk or workshop submissions. Keynotes should set the tone of the day and, hopefully, inspire your attendees. Keynote speakers don't need to be "huge names" but someone capable of presenting something thought provoking is recommended.
 
 ## Legality
 
+> It should be noted that this document does not constitute as legal advice, always consult with a legal professional and/or accountant before undertaking any legal partnership or liability.
+
 It's worth considering getting your conference set up as a legal entity (Ltd company, CIC, or similar). This can protect you as an organiser from liability, should it arise, but also give sponsors a legal entity to pay sponsorship fees to.
 
-Having a dedicated bank account keeps any funds seperate from organisers' personal accounts.
-
-It should be noted that this document does not constitute legal advice, always consult with a legal professional and/or accountant before undertaking any legal partnership or liability.
+Having a dedicated bank account keeps any funds seperate from organisers' personal accounts. Bank accounts can be a bit of a pain to set up for community groups so it's worth getting this registered as soon as possible to avoid sponsorship payment delays.
 
 ## Location
 
@@ -228,17 +228,23 @@ Many events are held within modern venues where modern facilities are available 
 
 On a similar note, understanding [accessibility](venue.md#accessibility) for your conference, pre-conference, and [after party](#after-party) can ensure that nobody has to be turned away due to the [venue](venue.md) not being fully [accessible](venue.md#accessibility).
 
+> Note: Many attendees who need accessible facilities won't be angry at not having a prayer room, blue badge parking zones, or accessible entrances if you've done your best to accommodate and consider these accessibile requirements.
+
 ## Publicity
 
 Scheduling regular posts on social media platforms to publicise the calls for [volunteers](#volunteers), [sponsors](#sponsors), [speakers](#call-for-papers-cfp) is a good idea to maximise publicity for your conference.
 
 Having automated posts scheduled during the conference for each speaker on, or around, their speaking slot may seem like a good idea but schedules can be fluid and speakers can [drop out](#backups) on the day. Having a posts drafted and a dedicated volunteer to push them out just before and during the talks are a good alternative and can save conflicting information going out on social media.
 
+> Note: if scheduling posts, it's highly recommended that all posts are scheduled in UTC to avoid any issues with clocks changing.
+
 ## Recordings
 
 Some speakers don't want to be recorded, and that's absolutely fine. You do, however, owe it to those that do want it recorded to provide them with an artefact worthy of going on a CV. Work with the AV team to ensure your vision of the end product matches what they produce.
 
 Things can fail, and this should be planned for. Have a backup plan (such as ensuring audio and video of speakers is always recorded but slides can be ditched) for eventualities whereby technology fals on the day. Remember - you can always ask a speaker to send their slides later and splice that into the recording, you can't ask them to regurgitate a funny anecdote based off of a situation that happened on the day with the same humour and charisma that was shown on stage.
+
+Have [a good action plan](post_conference.md#recordings) for editing, uploading, reviewing, and releasing recordings in advance (and share this with speakers and attendees) to avoid continual questions around when the recordings may be released.
 
 ## Remote speakers
 
@@ -284,7 +290,7 @@ Speakers and volunteers should always be given a free ticket to the event. Spons
 
 Giving speakers at least a month (ideally more) notice that they've been selected, rejected, or are in "reserve" allows you to solidify your schedule and publicise who's speaking at your event. It allows attendees, and speakers themselves, to decide if they want to attend your conference. It's rare that a speaker submits a talk proposal and backs out, but it does happen. Don't assume your speakers are local – some may have to travel quite far to speak at your conference so giving them as much time as you possibly can to organise transport, book accommodation, and perhaps even annual leave is a very good idea. Similarly, with volunteers – letting them know they're expected to help on the day can give them time to ask questions or even back out themselves.
 
-Having clear defined schedules of when certain parts need to be solidified (such as venue, sponsorship collection, swag purchase, or speaker comms) can reduce the stress levels of the entire conference.
+Having clear defined schedules of when certain parts need to be solidified (such as venue, sponsorship collection, swag purchase, speaker comms, or [recording drop](post_conference.md#recordings)) can reduce the stress levels of the entire conference.
 
 ## Tracks
 
