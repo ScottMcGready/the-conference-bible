@@ -11,7 +11,7 @@ Generally speaking, planning and executing a traditional conference will follow 
 
 You should have clearly defined goals that you want to achieve at the end of each stage, and sometimes these stages may overlap, or repeat themselves.
 
-Things will change, go wrong, or not quite stick to the original plan and that's **absolutely fine**. Understanding that things might go wrong, planning for those eventualities, and having contingencies in place can massively help to keep the event running smoothly.
+Things will change, go wrong, or not quite stick to the original plan and that's **absolutely fine**. Understanding that things might go wrong, planning for those eventualities, and [having contingencies in place](#backups) can massively help to keep the event running smoothly.
 
 When choosing your date, remember to check holiday schedules such as half terms / school holidays and be mindful that different districts have different half terms. You can use [infosecmap.com](https://infosecmap.com/) to check other conferences scheduled around your potential chosen date.
 
@@ -232,7 +232,7 @@ On a similar note, understanding [accessibility](venue.md#accessibility) for you
 
 Scheduling regular posts on social media platforms to publicise the calls for [volunteers](#volunteers), [sponsors](#sponsors), [speakers](#call-for-papers-cfp) is a good idea to maximise publicity for your conference.
 
-Having automated posts scheduled during the conference for each speaker on, or around, their speaking slot may seem like a good idea but schedules can be fluid and speakers can drop out on the day. Having a posts drafted and a dedicated volunteer to push them out just before and during the talks are a good alternative and can save conflicting information going out on social media.
+Having automated posts scheduled during the conference for each speaker on, or around, their speaking slot may seem like a good idea but schedules can be fluid and speakers can [drop out](#backups) on the day. Having a posts drafted and a dedicated volunteer to push them out just before and during the talks are a good alternative and can save conflicting information going out on social media.
 
 ## Recordings
 
@@ -242,7 +242,7 @@ Things can fail, and this should be planned for. Have a backup plan (such as ens
 
 ## Remote speakers
 
-If you are considering welcoming remote speakers to "dial in" to the conference and present remotely, contingencies should be in place for situations such as internet connectivity issues and timezones should be taken into account especially when dealing with speakers from a different timezone to the conference itself. 
+If you are considering welcoming [remote speakers](types_of_speaker.md#remote) to "dial in" to the conference and present remotely, contingencies should be in place for situations such as internet connectivity issues and timezones should be taken into account especially when dealing with speakers from a different timezone to the conference itself. 
 
 ## Scheduling
 
@@ -278,7 +278,7 @@ If your event is running as a purely free (or a pay what you want) event, be awa
 
 If you're charging for tickets be aware of any fees ticketing platforms (Eventbrite, tito, etc) charge, and factor that into your [budgeting](#budgeting). A small number of conferences offer "pay it forward" community ticket types - this allows people with slightly more budget sponsor a free ticket for a student, or similar.
 
-Speakers and volunteers should always be given a free ticket to the event. Sponsors/vendors exhibiting on the day should be granted free entry and are sometimes offered a small batch of additional tickets as part of their sponsorship offering. This is not mandatory though.
+Speakers and volunteers should always be given a free ticket to the event. Sponsors/vendors exhibiting on the day should be granted free entry and are sometimes offered a small batch of additional tickets as part of their [sponsorship](#sponsors) offering. This is not mandatory though.
 
 ## Timescales
 
