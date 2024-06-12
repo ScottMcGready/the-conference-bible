@@ -38,7 +38,7 @@ MCs should, ideally, introduce speakers (unless a speaker asks not to be introdu
 
 ### The AV role
 
-An often overlooked role, the AV technician's job is to capture the speaker and slides. If your conference benefits from Cooper's support (either in person or the rigs) they'll likely all have a dedicated chat group they can field questions and ensure an operator is in the room for any potential issues, or strange stuff that may be going on. The AV technicians may rely on [runners](#the-runner-role) to fetch other AV technicians, or specific items for AV purposes.
+An often overlooked role, the AV technician's job is to capture the speaker and slides. If your conference benefits from [Cooper's support](organisation_and_planning.md#av--tech) (either in person or the rigs) they'll likely all have a dedicated chat group they can field questions and ensure an operator is in the room for any potential issues, or strange stuff that may be going on. The AV technicians may rely on [runners](#the-runner-role) to fetch other AV technicians, or specific items for AV purposes.
 
 ### The runner role
 
