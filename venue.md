@@ -16,7 +16,7 @@ Ensure the venue has the appropriate equipment (such as projectors, tv screens, 
 
 ## Logistics
 
-As mentioned in [logistical planning](organisation_and_planning.md#logistics), 
+As mentioned in [logistical planning](organisation_and_planning.md#logistics), while attendees won't be angry if a venue simply doesn't have a quiet room, prayer room, accessible entry, or similar - they will be (rightfully) annoyed if it hasn't been considered. Figuring out how to shepherd people around ahead of time helps plan for vendors loading in, people moving between talks, volunteers running around fixing fires, etc.
 
 ## Parking
 
@@ -24,9 +24,12 @@ Check with the venue on parking and loading areas. Some attendees may need to pa
 
 ## Room sizes
 
+While a room might look like a large space, it quickly reduces in size when you factor in where to place seats so every attendee can see screens, podiums, projectors, AV equipment etc. Any room you are planning to use for the conference the size should be reduced by ~15%-20% to allow for late arrivals, volunteers moving around, presenters having a good space, and things like attendees needing accessible seating areas.
 
 ## Security
 
 While planning for security presence on the day might feel like overkill it can be useful to have a plan for how to (quickly, calmly, and silently) deal with unruly attendees, unwanted guests, protests, and those intent on making the conference a failure if the situation arises. Some venues may provide (or insist on) a physical presence.
 
 ## Transport
+
+Assuming some, if not most, of you're attendees don't live in the immediate vicinity of your venue, most will be travelling, and staying (fairly) local, to the venue. The closest train station to the venue might not be the best one and while it may be obvious to yourself if you're a local, but local knowledge is absolute gold dust to attendees that aren't from that area.
