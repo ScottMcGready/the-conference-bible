@@ -36,6 +36,12 @@ Can't be bothered reading all the documentation? This cheat sheet is a quick and
 - Sharpie
 - Water
 
+## Testing
+
+- Test any equipment that uses RF/Bluetooth in the venue ahead of time
+- Charge batteries, microphones, and other wireless equipment prior to the day
+- Test projectors work fully
+
 ## Volunteers
 
 - 1 x MC/Host **(per track)**
