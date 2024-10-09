@@ -50,7 +50,8 @@ Documentation is split into the following sections:
 - Have backup speakers, panels, and backup volunteers prepped and ready to go.
 - Make sure to fulfil any sponsorship promises, such as "shout outs" or social media posts.
 - Make sure you have every form of AV connector available and, if all else fails, arm your volunteers with USB sticks to be able to transfer slides from laptop to a known good laptop.
-- Test av equipment (such as microphones, projectors, cables) before the conference. Test them again the day before
+- Test av equipment (such as microphones, projectors, cables) before the conference. Test them again the day before.
+- When the conference ends, often organisers/volunteers' jobs aren't over. Talks need uploaded (and captioned), feedback needs sent & curated, transparency reports written etc.
 
 ## Contributing
 
@@ -61,5 +62,6 @@ Contributing to this document is very welcome and encouraged. To make edits, [fo
 - [ENUSEC's Le Tour Du Hack](https://enusec.org/)
 - [Hackademia](https://hackademia.ac/)
 - [Hack Thursday](https://hackthurs.day)
+- [Hack Glasgow](https://hackglasgow.live)
 
 If you've found the guide useful, or have used it (or any advice I or the other contributors have given in the past) to help run your conference, please reach out and we'll happily add your conference or meet-up here.
