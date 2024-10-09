@@ -1,16 +1,16 @@
 # Post conference
 
-Before the conference, pick a time to come back together and discuss the event, what went well, what didn't, final costs as there will have been costs incurred during the day. Don't do it the day after the event but ensure it's timely as memories fade.
+Plan a post conference audit call with organisers, volunteers, and anyone involved on the day, in advance. Give everyone an opportunity to share their feedback - both positive and negative - in a safe space.
 
 ## Feedback
 
 Asking attendees, speakers, sponsors, and even volunteers for feedback is critical - especially if you plan to run the same, or similar, conference again in future. Feedback can help trim any "filler" parts of a conference out and give you, as organisers, a better idea of what needs extra - or indeed less - planning and thought next time.
 
-Feedback can be collected via any online form method although care should be taken to tailor it to each group (for example - asking "what was your favourite talk" as a mandatory question if a sponsor has been stuck on the stand all day might lead to skewed results or worse, an abandoned form).
+Feedback can be collected via any online form method although care should be taken to tailor it to each group (for example - asking "what was your favourite talk" as a mandatory question if a sponsor has been stuck on the stand all day might lead to skewed results or worse, an abandoned form) and make it clear what the question is asking.
 
 ## Lessons learned
 
-Schedule a call between organisers and volunteers to discuss everything that went well, and parts that could do with improvement in future. Even if you have no intention of running the conference (or any conference) ever again, this kind of knowledge can be vital for this guide, and other conferences that may encounter similar situations.
+Schedule a call between organisers and volunteers to discuss everything that went well, and parts that could do with improvement in future. Even if you have no intention of running the conference (or any conference) ever again, this kind of knowledge can be vital for this guide, and other conferences that may encounter similar situations. Producing a post event rundown document and making it publicly accessable is incredibly helpful.
 
 ## Money
 
@@ -36,10 +36,10 @@ Adding subtitles, while a lengthy process, can add more accessibility to the rec
 
 ## Thanks
 
-While sponsors commonly get votes of thanks as part of their sponsorship package, thanking all volunteers and speakers for their contributions is very welcome, especially if you've had some impromptu speakers or volunteers help out on the day.
+While sponsors commonly get votes of thanks as part of their sponsorship package, thanking all volunteers and speakers for their contributions is very welcome, especially if you've had some impromptu speakers or volunteers help out on the day. Thanking volunteers for their contribution helps make them more likely - and even excited - to volunteer the next iteration of your conference.
 
 ## Transparency report
 
-Consider writing a transparency report post-conference that outlines any statistics about your conference, where sponsorship money was spent, and any issues encountered. While it may feel a bit invasive, this can positively impact future sponsorship opportunities and pre-emptively stop any hard questions, or incorrect assumptions by anyone external.
+Consider writing a transparency report post-conference that outlines any statistics about your conference, where sponsorship money was spent, and any issues encountered. While it may feel a bit invasive, this can positively impact future sponsorship opportunities and pre-emptively stop any hard questions, or incorrect assumptions by anyone external. Having some neutral auditor help write the report, or validate its' authenticity helps give credence to the report.
 
 An example report, written after The Beer Farmers' [BeerCon2](https://www.youtube.com/watch?v=UoCsSa2mjcU&list=PLD6Eke-wt28k91eUbYDLsyE6UTRWQgXSJ) is available [here](https://www.dropbox.com/s/9br4fq3fhpku0jv/BeerCon2.pdf?e=1&raw=1).
