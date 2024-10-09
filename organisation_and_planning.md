@@ -238,6 +238,8 @@ Having automated posts scheduled during the conference for each speaker on, or a
 
 > Note: if scheduling posts, it's highly recommended that all posts are scheduled in UTC to avoid any issues with clocks changing.
 
+Getting the CFP sorted quickly allows you to advertise the schedule well in advance too - meaning people can pick out talks they'd like to attend and start chattering on social media. Scheduling speakers in your day is an artform.
+
 ## Recordings
 
 Some speakers don't want to be recorded, and that's absolutely fine. You do, however, owe it to those that do want it recorded to provide them with an artefact worthy of going on a CV. Work with the AV team to ensure your vision of the end product matches what they produce.
