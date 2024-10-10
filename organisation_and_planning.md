@@ -254,7 +254,9 @@ If you are considering welcoming [remote speakers](types_of_speaker.md#remote) t
 
 ## Scheduling
 
-Plan buffer time between talks to allow for movement between tracks. Don't stack a slew of talks together, especially longer ones – we are all human and will end up fidgeting and dropping out of talks to break up sitting still for so long. Putting 3 x hour long talks together could have some tactical seating of people skipping the middle, or last talk, in a set to preserve their attention span for later in the day.
+Scheduling talks on the day can be one of the trickiest parts of running a conference. Schedules should be easily accessible, legible, updatable, and released as early as possible to allow attendees (and other speakers) plenty of time to decide which talks to go to and figure out logistics of getting from one track to another.
+
+Building in buffer time (~5 minutes) between talks is useful to allow people moving between talks but also for situations where talks run over slightly. Stacking long talks together, without a break or buffer between them, may lead to attendees dropping out or becoming restless.
 
 ## Speaker mentorship
 
