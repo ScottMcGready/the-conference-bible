@@ -186,7 +186,7 @@ If you are running a parallel CTF that requires internet access of some sort, yo
 
 Providing food for everyone onsite can be challenging with different preferences (vegetarian/vegan for example), allergies, intolerances, and more. If your [venue](venue.md) is lucky enough to be situated near food and drink offerings, it may be wiser to allow people to sort themselves out (although be mindful of [dilution](types_of_conference.md#in-person)). Be mindful of anyone potentially fasting due to Ramadan, for example. If you are having an [after party](#after-party) it's a good idea to select a venue that also provides food to ensure everyone gets the option of eating.
 
-Many venues, such as Universities, have their own catering or some even have their own rules surrounding external caterers. It's recommended to have a chat with your venue to understand what can, and can't happen.
+Many venues, such as Universities, have their own catering or some even have their own rules surrounding external caterers (i.e. an uplift cost per head to bring your own food). It's recommended to have a chat with your venue to understand what can, and can't happen.
 
 > Note: If you pencil in a coffee break on the schedule, make sure there's **actually** tea and coffee on site.
 
