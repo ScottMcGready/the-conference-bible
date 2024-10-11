@@ -2,7 +2,11 @@
 
 Volunteers can be broken down into four distinct groups – AV technicians, General, MCs, and Runners. Volunteers should be "stuck" to their role for the entire conference period (meaning that an MC shouldn't be pulled to be a runner and a runner shouldn't be pulled to be an AV tech) however, things happen. Understand your volunteer cohorts' skillsets and utilize them as best you can.
 
+## On the day comms
+
+
 ## Pre-conference organisation
+
 
 ## Skill levels
 
