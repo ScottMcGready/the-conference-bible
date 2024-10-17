@@ -274,6 +274,10 @@ Many conferences give swag to attendees and speakers.
 
 As a speaker or attendee, swag is nice to receive but it shouldn't be something that is expected. Budgets can be limited, and size based swag (like t-shirts) can be a nightmare to accurately predict. Swag should be seen as a "nice to have" rather than a "must have" using the leftover budget from the sponsors. There's a sustainability aspect to swag to consider, is it a t-shirt that will fade after a couple of washes, or a gimmick which is discarded or broken a week later?
 
+## Task management
+
+Having a way to list, assign, discuss, and categorise tasks is recommended. It doesn’t need to be a super complicated, automated, system but having something all members of your organising team can easily keep on top of their tasks helps the conference stay on track, and ensures nothing is forgotten about.
+
 ## Team
 
 Having a team behind you during the entire event is thoroughly recommended. Everyone brings different skillsets, opinions, and ideas to the table. It may seem, at the first stage, that running a conference is easy but there's a lot of factors that can be a massive time and energy drain which has a knock on effect on the entire conference. Sharing the load between organisers can help lessen the burden on yourself and allow you to enjoy the experience.
