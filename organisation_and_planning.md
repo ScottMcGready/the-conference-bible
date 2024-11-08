@@ -308,7 +308,9 @@ Having clear defined schedules of when certain parts need to be solidified (such
 
 ## Tracks
 
-Deciding how many [tracks, workshops, and villages](tracks_workshops_villages.md) you want to run during your conference. Remember - the more tracks, the more complexity is involved in planning, management, and running each one.
+Decide how many [tracks, workshops, and villages](tracks_workshops_villages.md) you want to run during your conference. Tracks often run concurrently, allowing you to host more speakers and gives attendees a choice of which speaker to see. Having multiple tracks can be a double edged sword, not only in terms of complexity and planning, but giving attendees too many choices could lead to analysis paralysis. Similarly, while you may easily fill two concurrent tracks with amazing talks, if the third track has only a handful of speakers on it, it may feel like the bargain bin section - to both speakers and attendees.
+
+Remember - the more tracks you add to your conference, the more complexity is involved in planning, management, and running each one.
 
 ## Volunteers
 
