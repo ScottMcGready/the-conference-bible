@@ -15,6 +15,12 @@ Things will change, go wrong, or not quite stick to the original plan and that's
 
 When choosing your date, remember to check holiday schedules such as half terms / school holidays and be mindful that different districts have different half terms. You can use [infosecmap.com](https://infosecmap.com/) to check other conferences scheduled around your potential chosen date.
 
+## Accounting
+
+An accounting tool to keep track of money and invoices is a good investment. If you're comfortable doing everything in spreadsheets and word documents, that's absolutely fine - but having a tool or system that automatically generates invoices, calculates due dates for payment, keeps track of expendature, and sends automatic chasers for late payers can be a massive benefit.
+
+Regardless of whether you end up using a dedicated tool, spreadsheet system, or good old fashioned paper based accounting - it is really important to ensure all members of your committee/organisation team can see the health of the bank balance, invoices sent (and their status), and any expected costs.
+
 ## Advisors 
 
 Having a friendly face that's done it all before can massively reduce the pressure of running an event. Their guidance, and experience, can help with many of the common issues that may crop up. Other conference organisers are often incredibly happy to assisting others run a successful event, provided you aren't trying to run one in competition with them ;).
@@ -118,7 +124,7 @@ It's encouraged to read the full [broadcasting guide](broadcast.md) and tailor i
 
 Understand exactly how much it'll cost to deliver a Minimum Viable Product (MVP) version of your conference and add on the additional "nice to have" bits later. Looking at other conferences' [sponsor packs](guides/sponsors.md) can be a good reference point to understand what level of funding is required.
 
-Many sponsors will require an invoice to be sent to them and will pay within their own payment terms. This can be immediate, 14/30/60/90 days after invoice submission, randomly without notice, or even after the conference has run. Planning your budgets in accordance with when money is due is very recommended and while it may be tempting to stick things on a credit card in the interim, care should be taken to ensure the sponsors will pay on the time you think. It's not uncommon for organisers to be out of pocket or have additional fees they weren't initially expecting at the end of a conference.
+Many sponsors will require an invoice to be sent to them and will pay within their own payment terms despite whatever due date is on the invoice. This can be immediate, 14/30/60/90 days after invoice submission, randomly without notice, or even after the conference has run. Planning your budgets in accordance with when money is due is very recommended and while it may be tempting to stick things on a credit card in the interim, care should be taken to ensure the sponsors will pay on the time you think. It's not uncommon for organisers to be out of pocket or have additional fees they weren't initially expecting at the end of a conference.
 
 Be aware that accepting credit card payments, or selling tickets on platforms like Eventbrite can incur fees. These fees may be a small amount of money in the grand scheme of things but not accounting for a small percentage being taken from each ticket sale can have a knock on effect on budgets.
 
