@@ -6,13 +6,15 @@ Many conferences now follow a "multi-track" format. This can allow you to accept
 
 A popular addition to many conferences, 
 
-As Steelcon beautifully put it - a kids track shouldn't be seen as a crèche, but rather a child friendly version of the conference where they can learn and have fun.
+As Steelcon beautifully put it - a kids track shouldn't be seen as a crèche, but rather a child friendly version of the conference where they can learn and have fun. 
+
+Anyone staffing this should get the appropriate safeguarding/disclosures done. These can take weeks if not months to be approved depending on the country so please plan well ahead. Appropriate ratios will need to be managed (younger children groups will need to have less children per adult). 
 
 ## Sponsors / vendors
 
 Depending on the benefits laid out in your [sponsor pack](guides/sponsors.md), you might have offered sponsors an area where they can set up a stand to speak to attendees. Ensure you have enough space, tables, chairs, and similar items.
 
-Sponsors and vendors will likely want, or need, access to power for their table – ensuring there's sufficient room to run cables safely to give vendors access to electricity if needed.
+Sponsors and vendors will likely want, or need, access to power for their table – ensuring there's sufficient room to run cables safely to give vendors access to electricity if needed. Ensure you consider this when planning the venue.
 
 ## Villages
 

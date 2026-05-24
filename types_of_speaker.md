@@ -2,7 +2,7 @@
 
 # Types of speaker
 
-TBC
+Speakers come in all shapes, sizes and behaviours. 
 
 ## New/first time speakers
 
@@ -22,13 +22,17 @@ Seasoned speakers are speakers that have spoken before, know the setup well, and
 
 Known speakers can be easier to corale time wise, if you have an overrun on your schedule for example.
 
+## Nervous speakers
+
+On the day, you never know exactly how a speaker is feeling and they may express nerves to staff or simply display anxiety as they prepare for the talk. For an in-person event, set a volunteer to be their point of focus. For virtual, have them look directly to someone on the call.
+
 ## Speaker Methods
 
 
 ## In-person
 
-TBC
+As it says on the tin. The speaker will be at your physical event.
 
 ## Remote
 
-TBC
+Speaker will be connecting to your video conferencing call/event.

@@ -4,9 +4,13 @@ Volunteers can be broken down into four distinct groups – AV technicians, Gene
 
 ## On the day comms
 
+Find the best way to communication. Walkie talkies, Signal, Whatsapp, Discord, use what suits. Check what the signal strength is like at the venue.
+
+Ensure that you respect the comms on the day. Last thing you need is a volunteer's request for cover so they can use the bathroom being lost in a forest of cat meme's.
 
 ## Pre-conference organisation
 
+At least one pre-conference call in the lead up to the event with the volunteers is advisable. This puts the staff at ease that you have a plan, share what you can.
 
 ## Skill levels
 

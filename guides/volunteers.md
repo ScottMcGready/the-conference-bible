@@ -1,6 +1,6 @@
 # Volunteers
 
-The unspoken heros of any conference but attendees all the same. Make sure you look after these folks and you'll have guarunteed folks to help you run your conference from years to come.
+The unspoken heroes of any conference but attendees all the same. Make sure you look after these folks and you'll have guarunteed folks to help you run your conference from years to come.
 
 Outside of the special characters from AV.
 

@@ -45,12 +45,13 @@ Help the speaker setup
 - show them the [microphone good ettiqute](https://www.audiovisual.ie/mic-rental-etiquette-top-mic-tips/) and volume they'll need to speak,
 - introduce them to some hand signals for 5 min left,
 - ensure they know not to speak beyond their time,
-- when they are ready introduce the speaker.
+- when they are ready, introduce the speaker.
 
 While the speaker is talking
 
 - Ensure the speaker so they are not walking out of their alloted space,
 - be prepared to signal them when they are going over their alloted time,
+- handle the Q&A, ensure the crowd know a short question is key, a long one can be asked afterwards, a statement is not a question.
 
 When the speaker is done speaking enable questions. If the room is large enough you could run around with a microphone. When going into lunches make sure to outro and let people know where to go.
 
